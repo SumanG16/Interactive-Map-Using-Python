@@ -1,0 +1,958 @@
+CorsID,State,Site Name,Site Code,Latitude of Site (DMS),Longitude of Site (DMS),Ellipsoid Height (m),Vendor Username,GDC Username
+50001A001,Punjab,ABOHAR,ABOH,30 9 31.27533168,74 11 4.07870114,143.8095,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50002A001,Ladakh,ABRAN,ARAN,33 41 34.754417859919,76 34 51.7162608553751,3732.773192,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50003A001,Maharashtra,ACHALPUR,APUR,21 17 17.07093,77 30 42.48291,322.5562,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50004A001,Gujarat,ADESAR,ADER,23 33 16.534498434879,70 59 18.5887395328967,-14.75355,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50005A001,Tripura,AGARTALA,AGAR,23 49 32.355293784,91 18 46.788570255,-21.592814,Trimble,TMMz Wing
+50006A001,Tamilnadu,AGASTHASWEERAM,AGWM,8 10 49.3676276473205,77 25 26.4776474217595,-31.22584,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50007A001,Lakshdweep,AGATTI,AGAT,10 52 29.5022313317308,72 11 56.4490475477718,-77.82731,Hexagon,Kerala & Lakshdweep Wing
+50008A001,Gujarat,AHWA,AHWA,20 45 12.1047516338382,73 41 24.4109390969462,446.40618,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50009A001,Mizoram,AIZAWL,AIZA,23 43 51.599461322,92 41 42.170380866,828.493305,Trimble,TMMz Wing
+50010A001,Maharashtra,AJARA,AJRA,16 7 11.64399,74 12 33.60437,589.748,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50011A001,Madhya Pradesh,AJAYGARH,AJAU,24 54 37.726991142015,80 15 6.10041706546247,138.7725,Trimble,Madhya Pradesh Geo-spatial Directorate
+50012A001,Maharashtra,AKALKOT,AKLT,17 23 33.62204,75 58 34.67345,374.4573,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50013A001,Uttarpradesh,AKBARPUR,AKBA,26 26 48.8153435457825,82 33 35.234640856776,25.1835,Trimble,Uttar Pradesh Geo-spatial Directorate
+50014A001,Maharashtra,AKKALKUA,AKUA,21 33 3.54844,74 1 6.89845,69.2458,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50015A001,Maharashtra,AKLUJ TAL,ATAL,17 52 56.70868,75 1 5.38078,415.2365,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50016A001,Maharashtra,AKOLE,AKOE,19 25 58.27964,73 57 36.69698,644.909,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50017A001,Tamilnadu,ALANGUDI,ALAN,10 21 52.3875035848417,78 58 50.1085643929608,-6.11625,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50018A001,Karnataka,ALGUNDI,AGNI,16 15 28.83063,75 25 34.11439,449.6675,Hexagon,Karnataka Geo-spatial Directorate
+50019A001,Uttarpradesh,ALIGANJ,ALIG,27 30 0.135513184782504,79 9 44.502132876776,100.8182,Trimble,Uttar Pradesh Geo-spatial Directorate
+50020A001,Uttarpradesh,ALIGARH,ALGR,27 53 42.0283150457825,78 3 41.505158256776,139.1594,Trimble,Uttar Pradesh Geo-spatial Directorate
+50021A001,West Bengal,ALIPURDUAR,ALIP,26 29 57.8351496061893,89 31 45.9388332536368,0.04528,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50022A001,Madhya Pradesh,ALIRAJPUR,ALIR,22 19 1.991309,74 21 27.074986,237.3466,Trimble,Madhya Pradesh Geo-spatial Directorate
+50023A001,Telangana,ALLAPALLY,ALLA,17 49 46.9591319803138,80 28 26.4997761713724,111.79531,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50024A001,Maharashtra,AMALNER,ANER,21 2 38.4318,75 1 55.20404,155.3109,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50025A001,Madhya Pradesh,AMANGANI,AMAN,24 24 54.3449046101607,80 1 59.6682059995991,256.70552,Trimble,Madhya Pradesh Geo-spatial Directorate
+50026A001,Rajasthan,AMARSAGAR,AMAR,26 55 42.619595,70 52 40.092605,211.4627,Trimble,Rajasthan Geo-spatial Directorate
+50027A001,Tamilnadu,AMBASAMUTHRAM,AMSM,8 42 10.5893992974558,77 27 24.9691424212998,-16.86288,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50028A001,Tripura,AMBASSA,AMBA,23 54 42.163790549,91 53 18.519760719,65.564527,Trimble,TMMz Wing
+50029A001,Kerala,AMBLALAPUZHA,AZHA,9 27 30.8574141736519,76 19 58.2457273027846,-86.55532,Hexagon,Kerala & Lakshdweep Wing
+50030A001,Himachal Pradesh,AMBUNA,AMBU,31 41 9.40789,76 7 24.3746,450.816,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50031A001,Rajasthan,AMETH,AMET,25 18 27.1262447744832,73 54 57.05219829855,560.2888742,Trimble,Rajasthan Geo-spatial Directorate
+50032A001,Assam,AMGURI,AMGU,26 48 18.821671637,94 32 3.463867064,46.518533,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50033A001,Lakshdweep,AMINI,AMIN,11 7 48.1233147482063,72 43 20.1943811427137,-74.38437,Hexagon,Kerala & Lakshdweep Wing
+50034A001,Meghalaya,AMPATI,AMPA,25 27 36.877029751,89 55 36.089481302,6.70536,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50035A001,Telangana,AMRABAD,AMRB,16 22 30.8149872001187,78 49 48.1881672109925,505.76219,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50036A001,Punjab,AMRITSAR,AMRI,31 38 44.002547,74 51 22.730897,193.5369,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50037A001,Assam,AMTEKA,AMTE,26 44 1.712002944,90 32 6.408001416,72.604877,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50038A001,Punjab,ANADPURSAHIB,ANAD,31 14 31.683323,76 29 17.887274,263.3869,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50039A001,Telangana,ANDOLEMEDAK,ANDM,17 50 6.54716900169359,78 4 20.7777351326516,428.07386,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50040A001,Lakshdweep Wing,ANDROTH,ANDR,10 48 51.4355014610627,73 40 18.2525674980098,-76.47281,Hexagon,Kerala & Lakshdweep Wing
+50041A001,Karnataka,ANKOLA,ANKA,14 37 40.36081,74 19 37.28382,-44.9555,Hexagon,Karnataka Geo-spatial Directorate
+50042A001,Telangana,ANNAPUREDDYPALLY,ANNA,17 22 3.64017514156734,80 46 36.3090531445711,115.76146,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50043A001,Tamilnadu,ANNUR,ANNU,11 14 24.9550143997213,77 6 20.4109387471752,294.31917,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50044A001,Tamilnadu,ANTHIYUR,ANTH,11 34 37.8599845107851,77 35 16.5042446209636,140.42108,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50045A001,Madhya Pradesh,ANUPPUR,ANPR,23 8 18.2994567792519,81 41 56.752619988122,411.3998,Trimble,Madhya Pradesh Geo-spatial Directorate
+50046A001,Uttarpradesh,ANUPSHAHAR,ANUP,28 21 13.4025929257825,78 16 12.358828206776,139.9562,Trimble,Uttar Pradesh Geo-spatial Directorate
+50047A001,Meghalaya,ARADONGA,ARAD,25 50 31.005188897,91 10 18.14818996,29.811848,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50048A001,Rajasthan,ARAIN,ARAI,26 26 46.5190835886954,75 1 58.6478871742023,329.0137,Trimble,Rajasthan Geo-spatial Directorate
+50049A001,West Bengal,ARAMBAG,ARAM,22 53 29.4335260766105,87 46 24.7279811552507,-36.64354,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50050A001,Bihar,ARARIA,ARAR,26 7 17.4156541020301,87 27 8.94356788831631,-4.662647,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50051A001,Madhya Pradesh,ARON,ARON,24 22 50.4802411670531,77 24 27.8251479630685,474.55384,Trimble,Madhya Pradesh Geo-spatial Directorate
+50052A001,Arunanchal Pradesh,ARZOO,ARZO,28 29 20.373361787,95 49 36.672309238,602.998079,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50053A001,West Bengal,ASANSOL,ASAN,23 42 14.6415388135274,86 57 7.09182553252554,56.34027,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50054A001,Madhya Pradesh,ASHTA,ASHT,23 0 41.6023054327755,76 43 23.3379586233676,440.97871,Trimble,Madhya Pradesh Geo-spatial Directorate
+50055A001,Maharashtra,ASHTI,ASTI,21 11 19.84214,78 10 54.453,266.0306,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50056A001,Telangana,ASIFABAD,ASIF,19 21 52.4774348744314,79 17 1.04332998402165,149.70455,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50057A001,Odisha,ASTARANGA,ASTA,19 58 49.4353125583302,86 16 7.98924832666252,-48.45673,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50058A001,Karnataka,ATHANI BELGAUM,ATBM,16 43 59.83056,75 5 23.64527,516.477,Hexagon,Karnataka Geo-spatial Directorate
+50059A001,Kerala,ATHIRAPPILLY,ALLY,10 17 26.9260989265659,76 30 43.8974332003025,-20.12031,Hexagon,Kerala & Lakshdweep Wing
+50060A001,Tamilnadu,ATHUR,ATUR,11 35 52.0501840344666,78 36 6.45288819379672,136.91699,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50061A001,Uttarpradesh,AURAIYA,AURA,26 32 43.1087443057825,79 33 14.783187136776,75.7875,Trimble,Uttar Pradesh Geo-spatial Directorate
+50062A001,Kerala,AZHOOR,AOOR,8 38 22.7061487486595,76 50 28.1214666357211,-48.86053,Hexagon,Kerala & Lakshdweep Wing
+50063A001,Arunanchal Pradesh,BAANA,BAAN,27 16 57.253015339,92 51 2.234198251,415.405977,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50064A001,Madhya Pradesh,BABAI,BABA,22 42 12.0336588721038,77 56 37.5008828239905,261.09315,Trimble,Madhya Pradesh Geo-spatial Directorate
+50065A001,Gujarat,BACHAU,BHAU,23 17 18.4046771775931,70 20 39.3602328848855,-13.06073,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50066A001,Uttarpradesh,BACHHRAWAN,BACH,26 29 2.4630069957825,81 5 55.598463916776,55.0481,Trimble,Uttar Pradesh Geo-spatial Directorate
+50067A001,Madhya Pradesh,BADAGAON,BADA,24 34 34.5490004608971,79 0 16.3883051230042,291.49692,Trimble,Madhya Pradesh Geo-spatial Directorate
+50068A001,Odisha,BADAMPAHAR,BAA0,22 5 24.214819,86 7 1.926632766,331.58873,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50069A001,Odisha,BADMAL,BADM,21 49 11.9210916444766,84 0 17.1660473392845,158.08626,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50070A001,Madhya Pradesh,BADOD,BADO,23 47 37.3098917277679,75 48 25.2707498767827,413.54195,Trimble,Madhya Pradesh Geo-spatial Directorate
+50071A001,Madhya Pradesh,BADUADA,BADU,25 29 43.04856,76 39 16.86383,180.736,Trimble,Madhya Pradesh Geo-spatial Directorate
+50072A001,Madhya Pradesh,BADWAHA,BDWH,22 16 22.9932291132965,76 1 37.3689980117312,144.3662,Trimble,Madhya Pradesh Geo-spatial Directorate
+50073A001,Bihar,BAGAHA,BAGA,27 6 30.3407707375438,84 4 35.0845511099184,26.334305,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50074A001,Gujarat,BAGASARA,BAGR,21 28 50.8208987,70 56 14.04342298,100.23124,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50075A001,Meghalaya,BAGHMARA,BAGH,25 12 46.743370446,90 38 28.942559632,96.273803,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50076A001,Jharkhand,BAGODHAR,BAAR,24 5 5.45109495186749,85 49 49.082122030308,341.58462,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50077A001,Madhya Pradesh,BAIHAR,BAIH,22 6 14.1241963271934,80 32 59.6922317951184,500.71492,Trimble,Madhya Pradesh Geo-spatial Directorate
+50078A001,Uttarakhand,BAIJNATH,BAIJ,29 54 18.9100212857825,79 37 44.109458296776,1096.1952,Trimble,Uttarakhand  Geo-spatial Directorate
+50079A001,Madhya Pradesh,BAJAG,BAJA,22 39 41.78172491,81 20 59.91878931,732.65617,Trimble,Madhya Pradesh Geo-spatial Directorate
+50080A001,Assam,BAKSA,BAKS,26 39 13.006140042,91 20 26.375670522,24.855995,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50081A001,Odisha,BALANGIR,BAIR,20 41 9.97510043144379,83 29 9.61163234170532,131.91784,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50082A001,Gujarat,BALASAR,BALA,23 50 20.625811792401,70 40 23.5812333794938,-25.82296,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50083A001,Rajasthan,BALESAR,BALE,26 21 41.121922,72 30 56.805363,182.2142,Trimble,Rajasthan Geo-spatial Directorate
+50084A001,Chhattisgarh,BALOD,BALO,20 42 17.3023,81 13 46.40595,272.86845,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50085A001,Uttarpradesh,BALRAMPUR,BALR,27 24 39.7541107357825,82 11 32.070374846776,41.3885,Trimble,Uttar Pradesh Geo-spatial Directorate
+50086A001,West Bengal,BALURGHAT,BALU,25 14 55.6062802196615,88 46 48.8190428695579,-27.47247,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50087A001,Rajasthan,BAMNOR,BAMN,25 18 29.422566,71 19 12.027356,58.576,Trimble,Rajasthan Geo-spatial Directorate
+50088A001,Madhya Pradesh,BAMORI,BAMO,24 50 57.5698906205504,77 8 14.124664240533,400.84901,Trimble,Madhya Pradesh Geo-spatial Directorate
+50089A001,Tripura,BANABITI,BANA,24 3 15.140783723,91 34 46.176429686,-17.888205,Trimble,TMMz Wing
+50090A001,Karnataka,BANAVASI,BNSI,14 32 27.28333,75 1 15.37264,472.6804,Hexagon,Karnataka Geo-spatial Directorate
+50091A001,Uttarpradesh,BANDA,BAND,25 28 49.9301339257825,80 19 59.270838236776,62.7069,Trimble,Uttar Pradesh Geo-spatial Directorate
+50092A001,Madhya Pradesh,BANDAMP,BNMP,24 2 42.3585488,78 57 21.5796854,423.2242,Trimble,Madhya Pradesh Geo-spatial Directorate
+50093A001,Jammu & Kashmir,BANDIPURA,BARA,34 25 2.41421,74 38 49.46124,1602.472,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50094A001,Karnataka,BANGALORE,BANG,12 55 31.41996,77 37 22.75902,813.4644,Hexagon,Karnataka Geo-spatial Directorate
+50095A001,West Bengal,BANGAON,BANO,23 3 20.4692726653647,88 50 2.93232881380412,-45.96756,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50096A001,Odisha,BANGOMUNDA,BNDA,20 21 31.190919212541,82 54 27.1315120426553,190.24675,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50097A001,Bihar,BANKA,BNKA,24 53 33.7225324706851,86 54 41.9770685859365,23.50979,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50098A001,Madhya Pradesh,BANKHEDI,BANK,22 46 22.4062081303311,78 32 7.0103341330495,295.4131883,Trimble,Madhya Pradesh Geo-spatial Directorate
+50099A001,Rajasthan,BANSWARA,BANS,23 33 15.8754154793582,74 26 22.7825582720519,165.4314,Trimble,Rajasthan Geo-spatial Directorate
+50100A001,Karnataka,BANTWAL,BNWl,12 55 22.32119,75 2 1.41693,33.4938,Hexagon,Karnataka Geo-spatial Directorate
+50101A001,Uttarpradesh,BARA,BARA,25 15 9.0429749957825,81 42 57.536402066776,54.968,Trimble,Uttar Pradesh Geo-spatial Directorate
+50102A001,Uttarpradesh,BARAUT,BART,29 5 48.2261562957825,77 15 19.659715296776,179.4208,Trimble,Uttar Pradesh Geo-spatial Directorate
+50103A001,West Bengal,BARDHAMAN,BARD,23 17 2.51824854308665,87 49 27.5549265843214,-22.21517,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50104A001,Odisha,BARGARH,BARH,21 20 42.5412206689291,83 37 22.468426155855,126.1212052,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50105A001,Jharkhand,BARHAIT,BARI,24 53 46.7794821562848,87 35 52.0580991846113,-1.15703,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50106A001,Madhya Pradesh,BARHI,BARH,23 53 59.67022653,80 47 53.84836116,310.52154,Trimble,Madhya Pradesh Geo-spatial Directorate
+50107A001,Odisha,BARIPADA,BADA,21 56 31.43167687,86 43 38.68504301,-0.67608,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50108A001,Odisha,BARKOTE,BARK,21 32 36.29909415,84 58 45.32763742,84.56908,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50109A001,Punjab,BARNALA,BRLA,30 25 13.35788275,75 22 55.01958282,180.7941,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50110A001,Assam,BARPETA,BARP,26 19 40.542074543,91 0 11.252621929,-5.866165,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50111A001,Jharkhand,BARWADIH,BDIH,23 51 11.219576676447,84 6 46.5417308409875,228.22669,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50112A001,Arunanchal Pradesh,BASAR,BASA,27 58 46.046195542,94 41 21.900080637,592.989315,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50113A001,Karnataka,BASAVKLAYANA,BSNA,17 49 53.00778,76 56 1.8964,593.8233,Hexagon,Karnataka Geo-spatial Directorate
+50114A001,West Bengal,BASIRHAT,BASI,22 39 55.3464558376625,88 53 26.3711074329801,-50.18702,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50115A001,Chhattisgarh,BASNA,BASN,21 16 31.47049,82 48 51.5027,210.58888,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50116A001,Gujarat,BAYAD,BYAD,23 13 5.79873,73 12 51.28247,49.299,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50117A001,Maharashtra,BEED,BEED,18 55 11.93519,75 0 28.91795,551.0826,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50118A001,Maharashtra,BEED TALUKA,BETL,18 59 41.26186,75 44 34.51692,443.701,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50119A001,Madhya Pradesh,BEERPUR,BEER,26 8 55.4511408081566,77 9 48.4609987119829,170.12353,Trimble,Madhya Pradesh Geo-spatial Directorate
+50120A001,West Bengal,BEHARAMPUR,BEHA,24 5 40.6302232783775,88 15 41.6101102129543,-35.25508,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50121A001,Telangana,BEJJUR,BEJJ,19 20 34.4657879909039,79 51 45.5461788389861,73.52701,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50122A001,Kerala,BEKAL,BKAL,12 23 8.44646782,75 2 39.51165634,-65.48721,Hexagon,Kerala & Lakshdweep Wing
+50123A001,Telangana,BELA,BELA,19 43 5.9588001478175,78 46 15.9521942069934,154.15627,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50124A001,Kerala,BEYPORE,BORE,11 11 25.2790332692077,75 47 49.773089043329,-83.24121,Hexagon,Kerala & Lakshdweep Wing
+50125A001,Bihar,BHABUA,BHAB,25 2 51.3950184171284,83 36 49.2458682396482,22.319,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50126A001,Maharashtra,BHADGAON,BHGN,20 39 49.04795,75 13 41.79033,201.0732,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50127A001,Odisha,BHADRAK,BHAR,21 3 18.0405284688603,86 29 40.4749298715504,-42.00886,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50128A001,Madhya Pradesh,BHAGWANPURA,BHAG,21 37 18.936274,75 35 33.887667,294.4592,Trimble,Madhya Pradesh Geo-spatial Directorate
+50129A001,Karnataka,BHAGWATI,BWTI,15 9 31.22138,74 45 25.55053,425.7166,Hexagon,Karnataka Geo-spatial Directorate
+50130A001,Rajasthan,BHAKHASAR,BHAK,24 45 58.845887,71 7 9.60672,-24.098,Trimble,Rajasthan Geo-spatial Directorate
+50131A001,Maharashtra,BHANDARA,BHAN,21 9 49.08499,79 39 7.08275,193.487,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50132A001,Odisha,BHANJANAGAR,BGAR,19 55 35.3994605,84 34 54.64370831,21.59197,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50133A001,Chhattisgarh,BHATAPARA,BHTP,21 43 46.0902,81 57 49.31234,203.03216,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50134A001,Punjab,BHATINDA,BHTD,30 14 18.2638705504837,74 56 5.96977485185932,167.4439398,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50135A001,Karnataka,BHATKAL,BTKL,13 59 52.08458,74 33 12.43672,-42.1099,Hexagon,Karnataka Geo-spatial Directorate
+50136A001,Uttarakhand,BHATWARI,BHAT,30 48 15.4412917657825,78 37 14.398058676776,1520.0105,Trimble,Uttarakhand  Geo-spatial Directorate
+50137A001,Jharkhand,BHAVANATHAPURI,BPUR,24 23 0.50392903,83 34 4.89135166,177.18975,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50138A001,Gujarat,BHAVNAGAR,BHAV,21 45 36.5330189147701,72 7 59.0534575192081,-30.57362,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50139A001,Madhya Pradesh,BHIMPUR,BHIM,21 55 49.9807652755866,77 33 43.6143057325559,488.75978,Trimble,Madhya Pradesh Geo-spatial Directorate
+50140A001,Madhya Pradesh,BHINDNAGAR,BHIN,26 33 45.5991726465113,78 48 14.9024968024812,92.94332,Trimble,Madhya Pradesh Geo-spatial Directorate
+50141A001,Haryana,BHIWANI,BHIW,28 49 1.53096655,76 8 10.53365066,170.5964,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50142A001,Odisha,BHOGRAI,BHOG,21 39 6.52668184038777,87 21 55.3458578124882,-50.37027,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50143A001,Gujarat,BHRINDIYARA,BHRI,23 39 43.7002568593691,69 42 27.9785019100205,-41.41958,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50144A001,Odisha,BHUBANESWAR,BHUW,20 17 15.2976000641351,85 43 47.1856650197745,46.7309,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50145A001,Gujarat,BHUJ,BHUJ,23 14 16.5950030947223,69 39 28.0336966151313,59.3518,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50146A001,Haryana,BHUNA,BHUN,29 32 18.36903762,75 42 27.6361035,173.1764,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50147A001,Madhya Pradesh,BICHUA,BICH,21 49 0.219816329322405,79 1 57.7327216356131,592.44653,Trimble,Madhya Pradesh Geo-spatial Directorate
+50148A001,Karnataka,BIDER,BDER,17 56 17.54851,77 28 34.90063,578.4016,Hexagon,Karnataka Geo-spatial Directorate
+50149A001,Bihar,BIHARSHARIF,BIHA,25 10 6.75185895063521,85 31 2.28526667731232,-2.886615,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50150A001,Assam,BIHUBOR,BIHU,26 49 59.303683407,94 48 15.765928779,51.291105,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50151A001,Chhattisgarh,BIJAPUR,BJPR,18 48 9.35171,80 48 21.98091,264.22625,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50152A001,Madhya Pradesh,BIJAWAR,BIJA,24 38 21.3367675018504,79 29 54.3002029377479,290.82802,Trimble,Madhya Pradesh Geo-spatial Directorate
+50153A001,Rajasthan,BIKAMPUR,BKPR,27 44 42.184511916967,72 8 48.8049014030916,115.8283813,Trimble,Rajasthan Geo-spatial Directorate
+50154A001,Rajasthan,BIKANER,BIKA,28 3 22.293434622135,73 16 45.2175955064028,180.1580656,Trimble,Rajasthan Geo-spatial Directorate
+50155A001,Rajasthan,BIKARNI,BKRN,24 31 54.5669634245196,73 10 54.198099119216,324.4839059,Trimble,Rajasthan Geo-spatial Directorate
+50156A001,Rajasthan,BIKENDRI,BIKE,28 11 7.88313,72 26 12.300209,93.34029137,Trimble,Rajasthan Geo-spatial Directorate
+50157A001,Uttarpradesh,BILASPUR,BILA,28 53 2.2319109247825,79 15 34.531683426776,137.9498,Trimble,Uttar Pradesh Geo-spatial Directorate
+50158A001,Chhattisgarh,BILASPURCG,BLCG,22 5 30.0622778449411,82 10 29.7322435942787,222.18329,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50159A001,Uttarpradesh,BILGRAM,BILG,27 11 16.6318170457825,80 2 39.001865386776,78.2687,Trimble,Uttar Pradesh Geo-spatial Directorate
+50160A001,Mizoram,BILKHAWTHLIR,BILK,24 20 11.157132716,92 42 56.949450344,411.039945,Trimble,TMMz Wing
+50161A001,Odisha,BINIKA,BINI,21 4 32.3476015692784,83 48 26.6387677769594,78.09105,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50162A001,Bihar,BIRAUL,BIRA,25 56 32.4014941906025,86 15 9.00084116393862,-10.664978,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50163A001,Bihar,BIRPUR,BIRP,26 29 48.0792866341383,87 0 52.4531572459776,16.959836,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50164A001,West Bengal,BISHNUPUR,BISH,23 3 11.9188867165021,87 18 49.1238308623091,26.00786,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50165A001,Gujarat,BODELI,BODE,22 16 30.0041685910725,73 42 32.84732068271,25.87569,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50166A001,Ladakh,BODHKHARBU,BODH,34 20 22.6945477569121,76 33 54.4747080630409,3467.19967,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50167A001,Chhattisgarh,BODLA,BODL,22 9 38.57862,81 13 29.56534,324.40123,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50168A001,Jharkhand,BOKARO,BORO,23 37 26.2420392671037,86 10 25.7721690424288,156.48127,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50169A001,West Bengal,BOLPUR,BOLP,23 39 51.7504273430739,87 41 23.0848899893195,1.27939,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50170A001,Assam,BORLENGRI,BORL,25 54 55.950499727,93 41 57.22986071,105.133406,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50171A001,Gujarat,BOTAD,BOTA,22 10 55.4193719609873,71 40 50.7319780433504,44.7892,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50172A001,Odisha,BRAHMAGIRI,GIRI,19 47 45.02927136,85 38 40.31365241,-55.87798,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50173A001,Rajasthan,BUDSU,BUDS,27 8 17.007852,74 44 8.901806,350.7381,Trimble,Rajasthan Geo-spatial Directorate
+50174A001,Madhya Pradesh,BURHANPURNAGAR,BURH,21 18 20.9008156207062,76 12 22.5330818429782,185.61703,Trimble,Madhya Pradesh Geo-spatial Directorate
+50175A001,Bihar,BUXAR,BUXA,25 33 35.4958622254854,83 57 45.2079035337265,1.687859,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50176A001,Andaman & Nicobar Islands,CAMPBELL BAY,CAMP,6 57 40.2961832764131,93 55 13.2165100414652,-35.28551,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50177A001,West Bengal,CANNING,CANN,22 18 46.5181001130475,88 40 20.559920152064,-50.51538,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50178A001,Andaman & Nicobar Islands,CAR NICOBAR,CARN,9 10 29.9033707479136,92 49 3.31583945089204,-47.43227,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50179A001,Bihar,CHAKIA,CHAK,26 24 53.4522567213962,85 3 5.97340306222042,-2.877839,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50180A001,Manipur,CHAKPIKARONG,CHKP,24 12 22.466963493,93 54 15.493279502,750.093921,Trimble,TMMz Wing
+50181A001,Jharkhand,CHAKULIYA,CHYA,22 29 9.11180128,86 42 21.12963101,65.88471,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50182A001,Himachal Pradesh,CHAMBA,CHAM,32 33 39.3335638728983,76 7 37.3303314651893,853.11189,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50183A001,Madhya Pradesh,CHANCHODA,CHCH,24 10 51.3500823067548,77 0 21.8502917384482,396.55083,Trimble,Madhya Pradesh Geo-spatial Directorate
+50184A001,Rajasthan,CHANDAN,CHDN,26 59 30.557343,71 18 8.336821,138.579,Trimble,Rajasthan Geo-spatial Directorate
+50185A001,Uttarpradesh,CHANDAUSI,CHAN,28 27 34.2283969957825,78 47 42.133237276776,132.5148,Trimble,Uttar Pradesh Geo-spatial Directorate
+50186A001,Rajasthan,CHANDAWAL,CDWL,25 59 57.9974449411334,73 50 28.1569174494361,249.6302,Trimble,Rajasthan Geo-spatial Directorate
+50187A001,Chandigarh,CHANDIGARH,CHDG,30 42 51.12567801,76 46 42.03141818,287.4355,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50188A001,Jharkhand,CHANDWA,CHWA,23 40 5.65953084470333,84 44 2.32019951095647,471.8005,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50189A001,Arunanchal Pradesh,CHANGLANG,CHGL,27 8 13.4641372,95 44 29.637379762,402.394834,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50190A001,Karnataka,CHANNAGIRI,CNGR,14 1 26.30846,75 55 35.00076,600.773,Hexagon,Karnataka Geo-spatial Directorate
+50191A001,Assam,CHAPAKHOWA,CHPK,27 54 42.577303643,95 46 7.731950532,93.539688,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50192A001,Assam,CHAPAR,CHPR,26 16 32.190676622,90 26 43.440910473,-10.479527,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50193A001,Assam,CHARAIDEO,CHRD,27 1 44.62216551,95 1 36.7198196,52.360021,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50194A001,Nagaland,CHARE,CHRE,26 18 9.577152009,94 36 55.996551606,1024.141915,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50195A001,Telangana,CHARLA,CHAR,18 4 38.9188089192112,80 49 54.1534976181201,13.91622,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50196A001,Jharkhand,CHATRA,CHAT,24 12 43.8463770398774,84 51 24.683713073221,373.02441,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50197A001,Odisha,CHATRAPUR,CPUR,19 21 13.20491885,84 58 52.63653363,-24.82552,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50198A001,Rajasthan,CHAU,CHAU,27 27 0.918313,73 49 35.736855,258.4475,Trimble,Rajasthan Geo-spatial Directorate
+50199A001,Himachal Pradesh,CHAUPAL,CHPL,30 56 45.0301980480017,77 36 5.08029293527485,2002.51289,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50200A001,Tamilnadu,CHENNAI,CHNN,13 3 48.2393399851197,80 16 52.2071604437307,-61.75877,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50201A001,Kerala,CHERPULASSERY,CHER,10 52 36.7738511221899,76 15 34.539139829914,1.99454,Hexagon,Kerala & Lakshdweep Wing
+50202A001,Meghalaya,CHERRAPUNJI,CHER,25 16 6.869323856,91 44 7.332489352,1246.782474,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50203A001,Nagaland,CHETHEBA,CHET,25 39 54.72058218,94 15 24.886059903,1572.093816,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50204A001,Tamilnadu,CHEYYAR,CYAR,12 40 0.527764597505993,79 32 27.2321749619338,13.95407,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50205A001,Tamilnadu,CHEYYUR,CHEY,12 21 7.8265714286933,79 59 58.049196440408,-72.72863,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50206A001,West Bengal,CHHATNA,CHHA,23 19 16.5860472734431,86 58 31.5221814144005,81.17866,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50207A001,Uttarpradesh,CHIBRAMAU,CHIB,27 8 22.5654160934084,79 29 57.4921840368976,87.37983152,Trimble,Uttar Pradesh Geo-spatial Directorate
+50208A001,Andaman & Nicobar Islands,CHIDIYA TAPU,CHID,11 30 8.83711869717725,92 42 3.31056750527119,-53.95918,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50209A001,Manipur,CHINGAI,CHNG,25 18 42.843819469,94 30 26.753989161,1404.092734,Trimble,TMMz Wing
+50210A001,Telangana,CHINNACHINTAKUNTA,CHNN,16 27 7.17688103795147,77 48 32.6645147377157,255.4626,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50211A001,Telangana,CHINTHAPALLY,CHIN,16 48 23.9481472101543,78 49 23.9871023818698,284.81847,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50212A001,Rajasthan,CHIPPABAROD,CHIP,24 38 53.8703392399953,76 42 56.6978098150531,277.1527857,Trimble,Rajasthan Geo-spatial Directorate
+50213A001,Chhattisgarh,CHIRMIRI,CHRM,23 10 25.59752,82 22 23.81123,582.44138,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50214A001,Jharkhand,CHITARPUR,CHIT,23 35 46.7578003181204,85 39 24.0049752273538,273.5363,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50215A001,Rajasthan,CHITTAKAPAR,CHKR,25 56 14.668347,71 35 18.2087,110.839,Trimble,Rajasthan Geo-spatial Directorate
+50216A001,Rajasthan,CHITTORGARH,CHIT,24 52 42.9171504162856,74 36 29.2728033709288,353.4,Trimble,Rajasthan Geo-spatial Directorate
+50217A001,Kerala,CHITTUR,CTUR,10 37 1.56422634707497,76 48 0.713060333644263,70.77297,Hexagon,Kerala & Lakshdweep Wing
+50218A001,Gujarat,CHOTILA,CHOL,22 25 14.4459610137036,71 11 20.1586429557828,143.46492,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50219A001,Kerala,CHUNDEL,CDEL,11 34 46.6967499523052,76 4 12.9538885683477,779.33673,Hexagon,Kerala & Lakshdweep Wing
+50220A001,Goa,CONCONA,CONC,15 0 29.9556163572649,74 3 27.7770198768943,-47.39208,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50221A001,West Bengal,CONTIA,CONT,21 46 33.4540022628725,87 45 0.238519529025668,-52.11375,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50223A001,Maharashtra,DAHANU PALGHAR,DAPR,19 54 26.70853,72 57 16.36871,-5.6184,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50224A001,Gujarat,DAHEJ,DHEJ,21 43 4.2505510741534,72 35 6.29812827748104,-50.70999,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50225A001,Gujarat,DAHOD,DAHO,22 52 35.878532060939,74 13 59.5401527512459,263.33285,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50226A001,Madhya Pradesh,DALOD,DALO,23 56 27.54135031,75 6 8.601005888,419.4829413,Trimble,Madhya Pradesh Geo-spatial Directorate
+50227A001,Rajasthan,DANGRI,DANG,26 32 46.238195,71 23 4.679654,266.3191,Trimble,Rajasthan Geo-spatial Directorate
+50228A001,Maharashtra,DAPOLI,DAPO,17 45 57.81872,73 10 31.48636,86.4597,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50229A001,Arunanchal Pradesh,DAPORIJO,DAPO,27 59 27.973657644,94 13 6.548499404,249.370108,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50230A001,West Bengal,DARJEELING,DARJ,27 1 48.896442031521,88 15 34.9750709582933,2146.31032,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50231A001,Odisha,DARPAN,DARP,20 41 8.99151753245027,86 6 48.1592302404059,-28.36422,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50232A001,Tripura,DASDA,DASD,23 56 46.554566189,92 12 29.220359291,13.090102,Trimble,TMMz Wing
+50233A001,Odisha,DASMANTHPUR,DAUR,19 2 59.11890529,82 54 46.89856973,711.29839,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50234A001,Bihar,DAUDNAGAR,DAUD,25 2 5.15093727131753,84 23 59.1644196271355,38.350749,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50235A001,Maharashtra,DAUND,DAUD,18 28 3.51687,74 34 11.56038,442.8166,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50236A001,Rajasthan,DAUSA,DAUS,26 53 46.5686700342474,76 20 10.6890739842781,290.1924094,Trimble,Rajasthan Geo-spatial Directorate
+50237A001,Goa,DAYANADNAGAR,DAAR,15 23 47.2244151752057,74 5 45.646534355731,-32.48324,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50238A001,Gujarat,DAYAPAR,DPAR,23 37 55.2655394292732,68 54 6.38487875381228,55.12449,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50239A001,West Bengal,DEBAGRAM,DEBA,23 42 26.4018022590171,88 17 38.4140004006569,-38.08627,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50240A001,Rajasthan,DEGANAGAON,DEGA,26 51 8.52002875273688,74 19 52.4895467228423,298.0285529,Trimble,Rajasthan Geo-spatial Directorate
+50241A001,Maharashtra,DEGLOOR NANDED,DEND,18 32 29.17647,77 35 21.48672,299.743,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50242A001,Uttarakhand,DEHRADUN,DEHD,30 19 28.3634333847269,78 3 16.745796189529,648.6222,Trimble,Uttarakhand  Geo-spatial Directorate
+50243A001,Delhi,DELHIPALAM,DELH,28 34 50.2318931731688,77 5 25.9519910533724,168.8799701,Trimble,Delhi Geo-spatial and International Boundary Directorate
+50244A001,Maharashtra,DEOGAON,DGAB,20 1 41.26244,75 1 37.0626,466.3642,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50245A001,Jharkhand,DEOGHAR,DHAR,24 29 57.5959676384664,86 38 54.8762415348658,205.91932,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50246A001,Maharashtra,DEOLI,DEOL,20 39 11.81039,78 29 29.60048,199.3725,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50247A001,Madhya Pradesh,DEORI,DEOR,23 23 40.830623139476,79 1 18.6796492540103,370.86529,Trimble,Madhya Pradesh Geo-spatial Directorate
+50248A001,Assam,DHAKUAKHANA,DHAK,27 12 10.114360714,94 26 24.946210077,35.916867,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50249A001,Odisha,DHAMARA,DHAA,20 47 42.2893217093281,86 54 2.14458457850837,-55.4779,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50250A001,Maharashtra,DHAN,DHAN,20 16 25.45191,80 18 32.50111,176.4863,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50251A001,Jharkhand,DHANBAD,DBAD,23 47 38.0097228547817,86 26 31.7444464268695,189.25576,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50252A001,Gujarat,DHANDHUKA,DHKA,22 22 30.7827066740521,71 58 38.5837247916791,-32.20433,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50253A001,Madhya Pradesh,DHAR,DHHR,22 36 36.066336,75 18 51.303269,519.9569,Trimble,Madhya Pradesh Geo-spatial Directorate
+50254A001,Tripura,DHARAMNAGAR,DHRM,24 22 15.038428786,92 9 29.983860086,-25.654138,Trimble,TMMz Wing
+50255A001,Gujarat,DHARAMPUR,DHAM,21 38 56.9691307222002,69 40 48.8123066469909,-43.26303,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50256A001,Andaman & Nicobar Islands,DHARMAPUR,DHPR,12 37 47.8855297,92 54 13.30412542,-46.9484,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50257A001,Himachal Pradesh,DHARMSHALA,DHAR,32 12 2.97486,76 19 25.59316,1155.01,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50258A001,Madhya Pradesh,DHEMARKEDA,DHEM,23 28 27.58589283,80 22 35.66579389,357.93638,Trimble,Madhya Pradesh Geo-spatial Directorate
+50259A001,Odisha,DHENKANAL,DHAL,20 39 20.83785285,85 35 53.94015208,19.57543,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50260A001,Maharashtra,DHOLEGAON,DHGN,20 5 16.25758,76 10 50.71329,461.8265,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50261A001,Gujarat,DHOLKA,DHOL,22 44 5.38857468681429,72 26 8.76247620016585,-30.39828,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50262A001,West Bengal,DIAMONDH,DIAM,22 11 46.7892215204569,88 10 35.3555487904115,-49.80598,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50263A001,Assam,DIBRUGARH,DIBR,27 29 6.403526216,94 54 38.914862036,51.945974,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50264A001,Bihar,DIGHALBANK,DIGH,26 22 33.0110677889215,87 50 39.5632321390021,10.309915,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50265A001,West Bengal,DINHATA,DINH,26 7 23.1927560458521,89 29 19.7520509610118,-14.38961,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50266A001,Arunanchal Pradesh,DIRANG,DIRA,27 21 33.776235007,92 14 44.713311042,1546.932679,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50267A001,Rajasthan,DOBHI,DOBH,29 3 52.9038687364874,75 12 50.7061348462699,156.5510499,Trimble,Rajasthan Geo-spatial Directorate
+50268A001,Jammu & Kashmir,DODA,DODA,33 8 39.1878721616422,75 33 12.6314948518918,1080.52267,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50269A001,Assam,DONKAMUKAM,DONK,25 55 59.537962503,92 42 2.33572843,27.267732,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50270A001,Rajasthan,DOONI,DOON,25 53 10.1910836896764,75 35 45.9760456558708,255.0298056,Trimble,Rajasthan Geo-spatial Directorate
+50271A001,Jammu & Kashmir,DOORU,DORU,33 34 10.6291124437201,75 13 26.565415127582,1760.55439,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50272A001,Rajasthan,DUDHABERI,DUDB,25 57 38.393516,71 2 42.321204,198.125,Trimble,Rajasthan Geo-spatial Directorate
+50273A001,Uttarpradesh,DUDHI,DUDH,24 12 45.296761000535,83 14 28.378938051782,195.964735,Trimble,Uttar Pradesh Geo-spatial Directorate
+50274A001,Rajasthan,DUDHITALAI,DHTL,24 26 42.62498,74 35 55.07381,452.999,Trimble,Rajasthan Geo-spatial Directorate
+50275A001,Bihar,DUMARIYA,DUMA,24 27 53.1535631991053,84 29 2.51516358144419,153.66609,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50276A001,Jharkhand,DUMKA,DMKA,24 16 55.6518172985943,87 15 50.8159756159811,112.55407,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50277A001,West Bengal,DURGAPUR,DURG,23 29 39.7018467037676,87 17 45.6217163840123,22.90628,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50278A001,Uttarpradesh,ETAWAH,ETAW,26 46 18.6289128657825,79 1 19.544687046776,91.8297,Trimble,Uttar Pradesh Geo-spatial Directorate
+50279A001,Telangana,ETURANAGARAM,ERGM,18 19 31.8131621978262,80 24 43.869313852372,21.00608,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50280A001,Kerala,EZHIMALA,EALA,12 1 54.2230065679807,75 15 24.0837386844786,-48.93382,Hexagon,Kerala & Lakshdweep Wing
+50281A001,West Bengal,FALAKATA,FALA,26 30 47.3099976878745,89 13 24.1289419880369,12.72706,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50282A001,Uttarpradesh,FARIDPUR,FARI,28 11 56.2840077357825,79 32 36.138746506776,105.8591,Trimble,Uttar Pradesh Geo-spatial Directorate
+50283A001,Uttarpradesh,FATEHPUR,FATE,25 55 44.6371249957825,80 48 10.189391656776,53.9074,Trimble,Uttar Pradesh Geo-spatial Directorate
+50284A001,Uttarpradesh,FIROZABAD,FIRO,27 7 36.4644909357825,78 27 37.001353226776,106.7347,Trimble,Uttar Pradesh Geo-spatial Directorate
+50285A001,Assam,FOTEHPUR,FOTE,27 5 26.794861255,93 59 33.855888835,32.373586,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50286A001,Tripura,GANDACHERRA,GANC,23 35 40.059809512,91 49 27.766819628,56.469856,Trimble,TMMz Wing
+50287A001,Chhattisgarh,GANDAI,GDAI,21 39 12.15991,81 5 34.90982,264.34545,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50288A001,Karnataka,GANDASI,GNSI,13 7 46.43029,76 18 21.71529,872.3211,Hexagon,Karnataka Geo-spatial Directorate
+50289A001,Gujarat,GANDHINAGAR,GAAR,23 14 24.24071,72 38 8.417217,25.1628,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50290A001,Rajasthan,GANGAPURCITY,GANG,26 30 7.50307009716689,76 45 21.4595126642988,208.074542,Trimble,Rajasthan Geo-spatial Directorate
+50291A001, Sikkim,GANGTOK,GANG,27 20 53.9694203181827,88 37 3.3929450538849,1760.30208,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50292A001,Madhya Pradesh,GAROTH,GARO,24 20 0.0530733498567652,75 39 12.6217773311569,371.66118,Trimble,Madhya Pradesh Geo-spatial Directorate
+50293A001,Odisha,GAUDAGOTHA,GAUD,19 37 24.7148333894519,84 18 4.88312488244371,131.72633,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50294A001,Bihar,GAYA,GAYA,24 47 59.534819001704,85 2 15.4238983582972,54.26493,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50295A001,Chhattisgarh,GEEDAM,GEED,18 58 26.33948,81 24 16.04827,321.00722,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50296A001,Maharashtra,GHANSAWALI,GWAL,19 31 25.34037,75 59 51.86638,401.5037,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50297A001,Rajasthan,GHARSANA,GHAR,29 1 27.25149283,73 5 5.291170183,104.7893541,Trimble,Rajasthan Geo-spatial Directorate
+50298A001,Uttarpradesh,GHAZIPUR,GHAZ,25 34 6.58715833117699,83 33 17.4683262768987,6.524384,Trimble,Uttar Pradesh Geo-spatial Directorate
+50299A001,Maharashtra,GHTANJI,GTNJ,20 8 32.432,78 19 12.40376,222.5244,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50300A001,Madhya Pradesh,GHUGHRI,GHUG,22 40 55.1131847813384,80 41 18.1732346044205,437.15999,Trimble,Madhya Pradesh Geo-spatial Directorate
+50302A001,Jharkhand,GIRDIH,GDIH,24 10 23.1976022027257,86 16 21.2584554431707,214.288,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50303A001,Gujarat,GODHRA,GODH,22 46 56.0004459664166,73 37 31.9635039805987,78.76043,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50304A001,Maharashtra,GODRI JAMNER,GDJM,20 38 18.15673,75 52 52.20722,264.5755,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50305A001,Assam,GOGAMUKH,GOGA,27 24 42.774382197,94 19 11.03950011,42.895881,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50306A001,Haryana,GOHNA,GOHN,29 7 43.37739867,76 43 13.76060118,177.4824,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50307A001,Karnataka,GOKAK,GKAK,16 9 22.16772,74 48 55.62856,488.7782,Hexagon,Karnataka Geo-spatial Directorate
+50308A001,Assam,GOLAGHAT,GOLG,26 31 38.063685334,93 58 52.531401259,44.737058,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50309A001,Assam,GOLAKGANJ,GOLA,26 6 22.70512248,89 49 58.829360564,-18.374139,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50310A001,Karnataka,GOLGERI,GGRI,16 48 21.67034,76 21 7.82209,425.4601,Hexagon,Karnataka Geo-spatial Directorate
+50311A001,Gujarat,GONDAL,GOAL,21 58 52.7483512,70 47 40.71565734,86.50014,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50312A001,Bihar,GOPALGANJ,GOPA,26 24 17.9571707135686,84 23 5.6324723398043,1.615717,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50313A001,Uttarpradesh,GORAKHPUR,GORA,26 43 45.4138147157067,83 23 30.5260771501289,8.586774,Trimble,Uttar Pradesh Geo-spatial Directorate
+50314A001,Haryana,GORIWALA,GORI,29 46 59.56500482,74 44 48.6277083,154.0508,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50315A001,Rajasthan,GOTAN,GOTA,26 39 26.244934,73 43 58.358953,277.2444,Trimble,Rajasthan Geo-spatial Directorate
+50316A001,Madhya Pradesh,GOTEGAON,GOTE,23 2 11.4389792426556,79 28 56.8497318553605,312.34037,Trimble,Madhya Pradesh Geo-spatial Directorate
+50317A001,Rajasthan,GUDA,GUDA,23 50 55.9801110210786,73 23 35.5315584794178,346.1565993,Trimble,Rajasthan Geo-spatial Directorate
+50318A001,Tamilnadu,GUDALUR,GDLR,11 30 9.84104638414348,76 29 24.8648349221813,869.53446,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50319A001,Karnataka,GUDIBANDE,GBDE,13 40 23.28496,77 42 38.68879,765.8146,Hexagon,Karnataka Geo-spatial Directorate
+50321A001,Madhya Pradesh,GULANA,GULA,23 25 19.0634946344234,76 28 11.328891265928,391.56377,Trimble,Madhya Pradesh Geo-spatial Directorate
+50322A001,Karnataka,GULBARGA,GBGA,17 17 28.45882,76 45 54.59522,397.7281,Hexagon,Karnataka Geo-spatial Directorate
+50323A001,Jharkhand,GUMLA,GUMA,22 59 47.4170886,84 31 37.89016911,605.02906,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50324A001,Tamilnadu,GUMMIDIPOONDI,GUMP,13 25 35.3337080649945,80 6 54.010369672624,-65.25096,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50325A001,Punjab,GURDASPUR,GURD,31 54 26.005228,75 26 22.016618,216.4373,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50326A001,Haryana,GURGAON,GURG,28 27 1.53663752534122,77 1 42.2037715847629,180.2555,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50327A001,Karnataka,GURGUNTA,GNTA,16 17 15.12304,76 38 4.88629,387.3826,Hexagon,Karnataka Geo-spatial Directorate
+50328A001,Punjab,GURUHARSAHAI,GURU,30 42 53.673814,74 24 34.916214,151.8311,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50329A001,Assam,GUWAHATI,GUWA,26 10 44.363758125,91 44 21.467001229,6.48091,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50330A001,Madhya Pradesh,GWALIOR,GWAL,26 11 32.95343405463,78 12 4.97470752982425,183.64228,Trimble,Madhya Pradesh Geo-spatial Directorate
+50331A001,Bihar,GWANAAHA,GWAN,27 17 12.6814433737869,84 31 20.8572410962792,42.073451,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50332A001,Ladakh,GYAL,GYAL,33 38 0.277614317886406,77 44 48.7586635656276,4121.97416,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50333A001,Rajasthan,HADDA,HADD,27 38 21.9505518577095,72 53 2.73859807180474,233.1239075,Trimble,Rajasthan Geo-spatial Directorate
+50334A001,Karnataka,HAGRIBOMANAHLLI,HLLI,15 1 44.20105,76 11 7.62736,438.017,Hexagon,Karnataka Geo-spatial Directorate
+50335A001,Uttarakhand,HALDWANI,HALD,29 12 20.3618119957825,79 31 9.10252327677603,365.8942,Trimble,Uttarakhand  Geo-spatial Directorate
+50336A001,Assam,HALOWANC,HALO,26 35 31.018221006,93 26 22.262850691,24.801612,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50337A001,Uttarpradesh,HAMIRPUR,HAMI,25 57 31.4102351357825,80 8 52.519026776776,53.5856,Trimble,Uttar Pradesh Geo-spatial Directorate
+50338A001,Rajasthan,HANUMANGARH,HANU,29 36 16.3757327806519,74 16 36.015785078586,139.7142872,Trimble,Rajasthan Geo-spatial Directorate
+50339A001,Ladakh,HANUPATHA,HNPA,34 9 44.5999022177199,76 50 22.7455065290226,3783.40388,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50340A001,Uttarpradesh,HAPUR,HAPU,28 43 9.1013509957825,77 44 38.799643056776,159.8659,Trimble,Uttar Pradesh Geo-spatial Directorate
+50341A001,Uttarpradesh,HARAIYYA,HARA,26 47 16.8994123157825,82 28 49.601281276776,26.2968,Trimble,Uttar Pradesh Geo-spatial Directorate
+50342A001,Odisha,HARICHANDANPUR,HARI,21 20 9.529990349,85 47 14.50211186,295.21015,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50343A001,Madhya Pradesh,HARRAI,HARR,22 36 39.337028985207,79 13 6.75638749669733,533.14081,Trimble,Madhya Pradesh Geo-spatial Directorate
+50345A001,Maharashtra,HATKANGALE KOLHA,HKOL,16 45 0.39788,74 25 16.88562,511.9744,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50346A001,Madhya Pradesh,HATPIPIYA,HATP,22 46 34.6717877138483,76 18 4.46825078282511,464.34994,Trimble,Madhya Pradesh Geo-spatial Directorate
+50347A001,Arunanchal Pradesh,HAWAI,HAWA,27 53 8.584237149,96 49 10.51215178,1218.337058,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50348A001,Jharkhand,HAZARIBAG,HAAG,23 59 15.93505,85 22 23.86275,554.902,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50349A001,Karnataka,HD KOTE,HDTE,12 4 53.60214,76 20 4.68962,614.5486,Hexagon,Karnataka Geo-spatial Directorate
+50350A001,Assam,HELEM,HELE,26 50 25.317308453,93 28 38.113797991,30.652304,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50351A001,Gujarat,HIMMATNAGAR,HAGR,23 36 41.27585,72 57 53.19896,91.6256,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50352A001,Punjab,HISAR,HISA,29 8 2.38697369740348,75 42 28.0639721261155,166.254,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50353A001,Tamilnadu,HOSUR,HSUR,12 43 37.7226474281392,77 49 39.5019895629904,819.36665,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50354A001,Karnataka,HULIKUNTE,HNTE,14 8 29.31858,76 43 1.62848,500.5045,Hexagon,Karnataka Geo-spatial Directorate
+50355A001,Karnataka,HULIYAR,HLYR,13 35 1.12965,76 32 13.86942,629.0807,Hexagon,Karnataka Geo-spatial Directorate
+50356A001,Jharkhand,HUSSAINABAD,HUAD,24 32 30.8622535238931,83 59 42.6808257622047,84.42458,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50357A001,Andaman & Nicobar Islands,HUTBAY,HUTB,10 35 48.895146349392,92 32 13.0413793153665,-53.53131,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50358A001,Madhya Pradesh,HUZURBHOPAL,HUZU,23 15 48.7051904076554,77 22 54.8875210566466,470.96258,Trimble,Madhya Pradesh Geo-spatial Directorate
+50359A001,Telangana,HYDERABAD,HYDE,17 24 7.24380722315704,78 33 11.4811333771037,419.56315,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50360A001,Manipur,IMPHAL,IMPH,24 48 40.127311796,93 54 44.403877968,729.425539,Trimble,TMMz Wing
+50361A001,Madhya Pradesh,INDEGARH,INDE,25 54 30.3154152581151,78 33 11.8162733028989,130.1528,Trimble,Madhya Pradesh Geo-spatial Directorate
+50362A001,Madhya Pradesh,INDORE,INDO,22 42 28.990645,75 51 16.596771,493.6635,Trimble,Madhya Pradesh Geo-spatial Directorate
+50363A001,Gujarat,ITI RAJKPT,ITIR,22 16 46.1379279920575,70 49 48.8622098600676,91.13833,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50364A001,Madhya Pradesh,JABALPUR,JABA,23 11 13.586262151112,79 54 17.3996990957565,333.34698,Trimble,Madhya Pradesh Geo-spatial Directorate
+50365A001,Madhya Pradesh,JABERA,JABE,23 33 6.41306408725038,79 41 0.116783033876408,316.61482,Trimble,Madhya Pradesh Geo-spatial Directorate
+50366A001,Karnataka,JAGALURU,JLRU,14 30 58.84262,76 20 3.06055,598.0578,Hexagon,Karnataka Geo-spatial Directorate
+50367A001,Jharkhand,JAGANATHPUR,JPUR,22 12 31.3023846874122,85 38 29.4112654120379,385.67963,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50368A001,Chhattisgarh,JAGDALPUR,JGDP,19 6 3.75492662220831,81 58 48.360360513241,485.72165,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50369A001,Bihar,JAGDISHPUR,JAGD,25 27 15.7510168686448,84 22 41.730670616319,10.328132,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50370A001,Rajasthan,JAIPUR,JAIP,26 57 56.7808349953488,75 47 27.8622188831734,414.2469321,Trimble,Rajasthan Geo-spatial Directorate
+50371A001,Rajasthan,JAISINDHAR,JAIS,25 45 31.678826,70 21 35.229119,45.34,Trimble,Rajasthan Geo-spatial Directorate
+50372A001,Madhya Pradesh,JAISINGHNAGAR,JSNG,23 40 42.12110103,81 22 56.34769941,378.89555,Trimble,Madhya Pradesh Geo-spatial Directorate
+50373A001,Uttarpradesh,JALALABAD,JALA,27 43 24.2851098557825,79 39 10.334674086776,86.9436,Trimble,Uttar Pradesh Geo-spatial Directorate
+50374A001,Punjab,JALANDHAR,JLND,31 25 20.2067488,75 42 16.84945252,197.1246,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50375A001,Maharashtra,JALGAON,JALG,21 0 11.37687,75 32 49.86051,167.3616,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50376A001,Rajasthan,JALORE,JALO,25 20 26.0353985777957,72 38 51.4947812253335,120.2125,Trimble,Rajasthan Geo-spatial Directorate
+50377A001,West Bengal,JALPAIGURI,JALP,26 32 7.01526358289953,88 43 14.2841572229466,32.64701,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50378A001,Nagaland,JALUKIE,JALU,25 39 11.982988745,93 39 53.711117978,299.397002,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50379A001,Madhya Pradesh,JAMAIJUNARDEV,JAMA,22 11 51.7789842188688,78 35 10.933034666564,706.81365,Trimble,Madhya Pradesh Geo-spatial Directorate
+50380A001,Odisha,JAMANKIRA,JAMA,21 32 4.22421628247405,84 24 25.7851455515666,230.33637,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50381A001,Gujarat,JAMBUSAR,JSUR,22 2 56.892490162466,72 47 37.1881868330903,-45.33057,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50382A001,Jammu & Kashmir,JAMMU,JMMU,32 43 25.4443255086613,74 48 58.6616063719795,245.64362,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50383A001,Gujarat,JAMNAGAR,JAMN,22 27 59.9193346796814,70 3 24.4248589683858,-30.78475,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50384A001,Jharkhand,JAMSHEDPUR,JAME,22 45 15.2552665518175,86 11 55.3054424389977,107.40198,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50385A001,Jharkhand,JAMTARA,JARA,23 58 58.75479,86 49 39.92213,114.4209,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50386A001,Bihar,JAMUI,JAMU,24 55 34.6935196741132,86 14 11.5481248533687,21.553081,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50387A001,Chhattisgarh,JANAKPUR,JNKP,23 43 18.0833350910859,81 47 5.68743998569667,393.57747,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50388A001,Arunanchal Pradesh,JANG,JANG,27 34 30.233423867,91 59 15.042279605,2630.672037,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50389A001,Rajasthan,JASORABAINA,JASO,26 45 50.3923559,77 24 40.42569551,169.2022576,Trimble,Rajasthan Geo-spatial Directorate
+50390A001,Uttarpradesh,JAUNPUR,JAUN,25 43 37.2958496057825,82 41 47.889073276776,20.7904,Trimble,Uttar Pradesh Geo-spatial Directorate
+50391A001,Bihar,JAYNAGAR,JAYN,26 35 45.2965091564708,86 8 9.68208278922396,9.345998,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50392A001,Madhya Pradesh,JEERAPUR,JEER,24 1 11.7760792338953,76 22 33.0630186243086,356.86571,Trimble,Madhya Pradesh Geo-spatial Directorate
+50393A001,Madhya Pradesh,JHABUA,JHAB,22 46 0.497406556744758,74 35 51.9392662506927,272.19863,Trimble,Madhya Pradesh Geo-spatial Directorate
+50394A001,Haryana,JHAJJAR,JHAJ,28 38 5.77942594,76 38 29.57835067,168.2885,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50395A001,Uttarpradesh,JHANSI,JHAN,25 26 53.7246887457825,78 35 32.388879046776,187.1016,Trimble,Uttar Pradesh Geo-spatial Directorate
+50396A001,Rajasthan,JHUNJHUNU,JHUN,28 6 33.240974563746,75 23 14.3580468996768,294.6786184,Trimble,Rajasthan Geo-spatial Directorate
+50397A001,Haryana,JIND,JIND,29 18 31.05820823,76 20 13.0433657,179.6495,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50398A001,Maharashtra,JINTUR,JINT,19 35 33.20196,76 41 26.35815,376.5411,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50399A001,Assam,JIRIGHAT,JIRI,24 48 33.217564433,93 6 27.34906061,-7.419301,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50400A001,Rajasthan,JODHPUR,JODH,26 16 7.97560829549409,73 0 59.5446366828779,187.4322431,Trimble,Rajasthan Geo-spatial Directorate
+50401A001,Assam,JONAI,JONA,27 49 18.306558871,95 13 47.946287509,74.622335,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50402A001,Uttarakhand,JOSHIMATH,JOSH,30 33 19.2684801350081,79 33 29.0712863793012,1906.194,Trimble,Uttarakhand  Geo-spatial Directorate
+50403A001,Jharkhand,JUMRI TALAIYA,JUYA,24 26 24.7504250261738,85 32 2.51020862249484,334.25227,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50404A001,Gujarat,KABRADA,KABR,20 20 43.7101228797036,73 12 59.0438096397932,277.39687,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50405A001,Assam,KACHUGAON,KCHU,26 34 2.398713061,90 4 19.374610519,14.581335,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50406A001,Odisha,KADALIGARH,KADA,20 57 30.8458925915254,84 18 50.8557838597634,68.41961,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50407A001,Andaman & Nicobar Islands,KADAMTALA,KADM,12 21 11.5728110833236,92 46 22.8887728152178,-49.68823,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50408A001,Tamilnadu,KADAVUR,KDVR,10 42 50.5636715929832,78 14 25.769499998626,101.54321,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50409A001,Karnataka,KADUR,KDUR,13 33 2.81983,76 0 57.55572,681.0277,Hexagon,Karnataka Geo-spatial Directorate
+50410A001,Madhya Pradesh,KAILARAS,KAIL,26 18 23.8505470623508,77 37 45.6689521728051,134.66068,Trimble,Madhya Pradesh Geo-spatial Directorate
+50411A001, Haryana,KAITHAL,KAIT,29 47 2.65626183368737,76 24 14.7423426250273,189.9533,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50412A001,Maharashtra,KALAMNURI,KNUR,19 40 41.48907,77 18 2.69238,393.138,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50413A001,Tamilnadu,KALASAPAKKAM,KLSP,12 25 57.7319400971229,79 6 11.5041137329391,92.12981,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50414A001,Gujarat,KALAWAD,KAWD,22 13 25.975076,70 22 13.47480175,49.43776,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50415A001,Tamilnadu,KALLAKURICHI,KLKC,11 44 27.8769794757881,78 57 53.4749275655673,52.81592,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50416A001,Kerala,KALLAYI,KAYI,11 43 57.6230284,75 30 25.97206397,-85.16556,Hexagon,Kerala & Lakshdweep Wing
+50417A001,Uttarpradesh,KALPI,KALP,26 7 15.1136246957825,79 45 27.255398086776,63.7453,Trimble,Uttar Pradesh Geo-spatial Directorate
+50418A001,Maharashtra,KALWAN,KWAN,20 27 43.19095,73 59 58.53695,591.8025,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50419A001,Mizoram,KAMALANAGAR,KAMA,22 37 9.204326646,92 38 24.935601578,32.010863,Trimble,TMMz Wing
+50420A001,Manipur,KAMJONG,KAMJ,24 51 16.554341064,94 30 34.305671194,1615.250706,Trimble,TMMz Wing
+50421A001,Maharashtra,KAMLESHWAR,KAML,21 14 26.35206,78 54 11.4783,279.7427,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50422A001,Andaman & Nicobar Islands,KAMROTA,KAMR,8 2 25.1554293348418,93 32 31.1190483245199,-18.53661,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50423A001,Tamilnadu,KAMUTHI,KMTH,9 24 58.1145985910993,78 22 42.452722290041,-46.05461,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50424A001,Karnataka,KANAKPUR,KNRA,12 32 48.82758,77 25 24.94623,541.7496,Hexagon,Karnataka Geo-spatial Directorate
+50425A001,Tamilnadu,KANCHIPURAM,KANC,12 49 23.0861397451784,79 41 56.7029700751667,0.27257,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50426A001,Tamilnadu,KANGEYAM,KGYM,11 0 3.65388779222212,77 33 44.8141687159002,220.0644,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50427A001,Chhattisgarh,KANKER,KNKR,20 16 45.3490244673301,81 29 18.9188284275591,341.21999,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50428A001,Uttarpradesh,KANPUR,KANP,26 29 15.4780840157825,80 17 34.855322446776,64.2742,Trimble,Uttar Pradesh Geo-spatial Directorate
+50429A001,Maharashtra,KANSHIVANI,KVNI,20 37 23.06493,77 11 18.36124,268.418,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50430A001,Maharashtra,KARAD SATARA,KSAT,17 17 34.64436,74 8 25.99131,508.032,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50431A001,Tamilnadu,KARAIKUDI,KKDI,10 4 32.1142974834488,78 46 44.5131561591258,11.47434,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50432A001,Maharashtra,KARAMALA SOLAPUR,KRSO,18 24 11.08133,75 11 21.59068,486.4791,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50433A001,Rajasthan,KARANPURGANGAN,KARA,29 50 59.0110580302168,73 27 54.840503129158,122.0855181,Trimble,Rajasthan Geo-spatial Directorate
+50434A001,Madhya Pradesh,KARENA,KARE,25 26 57.1631247667493,78 8 32.881935791634,226.08354,Trimble,Madhya Pradesh Geo-spatial Directorate
+50435A001,Ladakh,KARGIL,KARG,34 31 2.58993806806223,76 8 19.4942017208329,2784.77845,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50436A001,Telangana,KARIMNAGAR,KRMN,18 26 33.9256802628821,79 5 38.2674057546436,216.43551,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50437A001,West Bengal,KARIMPUR,KARI,23 58 53.438764679096,88 38 11.1605802726426,-36.51761,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50438A001,Tamilnadu,KARIYAPATTI,KRYP,9 40 9.88399971147483,78 6 3.91934092342499,10.93608,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50439A001, Haryana,KARNAL,KARN,29 42 24.55538936,77 0 29.71656558,200.8775,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50440A001,Chhattisgarh,KARTALA,KRTL,22 18 0.833627752506068,82 57 17.6391784458377,259.31993,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50441A001,Tamilnadu,KARUR,KARU,10 55 8.50255674138477,78 5 30.7207695557478,69.40528,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50442A001,Uttarpradesh,KASHGANJ,KASH,27 51 56.9972618457825,78 43 22.238116536776,111.4553,Trimble,Uttar Pradesh Geo-spatial Directorate
+50443A001,West Bengal,KATAMARI,KATA,22 1 36.89442373,88 35 51.249,-51.34912,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50444A001,Madhya Pradesh,KATANGI,KATA,21 45 55.1411093065286,79 47 51.374019378649,286.16606,Trimble,Madhya Pradesh Geo-spatial Directorate
+50445A001,Chhattisgarh,KATGHORA,KATG,22 30 14.84676,82 33 23.76952,269.67094,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50446A001,Jammu & Kashmir,KATHUA,KHUA,32 23 19.35292,75 30 55.295484,308.0086,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50447A001,Assam,KATIGORAH,KTIG,24 52 36.617219011,92 34 30.943722012,-29.517357,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50448A001,Bihar,KATIHAR,KTHR,25 33 43.5247305291893,87 33 10.3657989133162,-20.645364,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50449A001,Madhya Pradesh,KATINNAGAR,KATI,23 48 22.2334856405096,80 21 56.7012262593145,340.9393,Trimble,Madhya Pradesh Geo-spatial Directorate
+50450A001,Tamilnadu,KATPADI,KTPD,12 58 30.2033297033119,79 7 54.1530783516706,133.97114,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50451A001,Kerala,KAVARATTI,KAVA,10 33 37.353017338757,72 37 55.2765948004164,-74.27296,Hexagon,Kerala & Lakshdweep Wing
+50452A001,Arunanchal Pradesh,KAYING,KAYI,28 24 53.704150034,94 40 48.388491107,483.169571,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50453A001,Rajasthan,KEKRI,KEKR,25 58 25.1153954921889,75 9 1.80463252725681,311.2495,Trimble,Rajasthan Geo-spatial Directorate
+50454A001,Kerala,KELAKKAM,KKAM,11 56 24.1914875,75 44 40.83544747,20.48003,Hexagon,Kerala & Lakshdweep Wing
+50455A001,Odisha,KEONJHAR,KEON,21 37 58.2055715,85 36 41.02220332,424.31704,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50456A001,Uttarpradesh,KESHARGANJ,KSRG,27 14 54.5480013757825,81 32 46.421861746776,45.3826,Trimble,Uttar Pradesh Geo-spatial Directorate
+50457A001,Maharashtra,KESHAV NAGAR,KNAG,20 5 5.4202,76 52 46.21529,464.0456,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50458A001,Uttarpradesh,KHAIRAGARH,KHAI,26 57 16.0797597057825,77 49 20.911747166776,113.0648,Trimble,Uttar Pradesh Geo-spatial Directorate
+50459A001,Rajasthan,KHAJUWALA,KHAJ,28 42 15.32764429,72 34 52.93759852,89.8525,Trimble,Rajasthan Geo-spatial Directorate
+50460A001,Madhya Pradesh,KHALWA,KHAL,21 48 28.2754943107617,76 44 29.5726898266144,253.29184,Trimble,Madhya Pradesh Geo-spatial Directorate
+50461A001,Gujarat,KHAMBHALIYA,KHAB,22 13 26.5310707336709,69 40 24.7757358674305,4.676753595,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50462A001,Maharashtra,KHAMGAON,KMGN,20 42 36.86172,76 34 1.57144,247.4783,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50463A001,Karnataka,KHANAPUR,KHPR,15 38 41.09834,74 30 0.79843,588.7003,Hexagon,Karnataka Geo-spatial Directorate
+50464A001,Maharashtra,KHANAPUR KARANJI,KPUR,17 13 15.33886,74 45 43.46174,696.2286,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50465A001,Rajasthan,KHANDELA,KHAN,25 13 27.7422788415094,76 50 46.844153846413,273.3221,Trimble,Rajasthan Geo-spatial Directorate
+50466A001,West Bengal,KHARAGPU,KHAR,22 20 36.5296574035046,87 19 33.487482149997,-18.21535,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50467A001,Uttarpradesh,KHARIBAD,KHAR,27 31 34.3147228657825,80 44 39.533049256776,71.0987,Trimble,Uttar Pradesh Geo-spatial Directorate
+50468A001,Uttarpradesh,KHATAULI,KHTL,29 16 44.2828349957825,77 44 19.878300816776,188.1413,Trimble,Uttar Pradesh Geo-spatial Directorate
+50469A001,Uttarakhand,KHATIMA,KHAT,28 55 29.3780000557825,79 57 43.709085596776,157.4524,Trimble,Uttarakhand  Geo-spatial Directorate
+50470A001,Mizoram,KHAWZAWL,KHAW,23 31 55.833665865,93 11 10.034440654,1267.280175,Trimble,TMMz Wing
+50471A001,Rajasthan,KHINIYA,KHIN,25 20 7.37770779726819,75 22 25.6831411360865,331.5520499,Trimble,Rajasthan Geo-spatial Directorate
+50472A001,Meghalaya,KHLIEHRIAT,KHLI,25 21 25.098670885,92 22 12.087018429,1109.923341,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50473A001,Jharkhand,KHUNTPANI,KANI,22 38 36.5695836568762,85 48 28.013701532391,168.80208,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50474A001,Arunanchal Pradesh,KHUPA,KHUP,28 3 57.844069576,96 29 15.239238919,633.198983,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50475A001,Uttarpradesh,KHUSHINAGAR,KHUS,26 51 57.0748921657825,83 57 24.203858516776,18.5772,Trimble,Uttar Pradesh Geo-spatial Directorate
+50476A001,Ladakh,KIARI,KIRI,33 28 45.3845337129706,78 7 30.2735838975096,3842.30403,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50477A001,Andaman & Nicobar Islands,KILSHORI NAGAR,KILS,13 11 29.1646873341006,92 52 36.1898881746142,-46.68986,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50478A001,Tamilnadu,KINATHUKADAVU,KTDU,10 48 48.9120646586675,77 1 5.74435938524892,236.57894,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50479A001,Madhya Pradesh,KIRNAPUR,KIRN,21 37 5.54150676800632,80 20 38.6081805408507,240.11744,Trimble,Madhya Pradesh Geo-spatial Directorate
+50480A001,Bihar,KISHANGANJ,KISH,26 7 52.2430657806316,87 55 2.23363472140638,-7.017118,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50481A001,Jammu & Kashmir,KISHTWAR,KIAR,33 19 22.4419151743115,75 45 56.1218400260342,1603.73812,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50482A001,Gujarat,KOBG,KOBG,20 45 48.5386878287246,70 53 5.56498924881725,-40.31113,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50483A001,Kerala,KOCHI,KOCH,9 57 4.72501,76 14 33.13349,-88.3756,Hexagon,Kerala & Lakshdweep Wing
+50484A001,Tamilnadu,KODAIKANAL,KODA,10 14 14.8765203601763,77 29 42.3382043031669,1993.52616,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50485A001,Odisha,KOIRA,KIRA,21 54 25.58500712,85 15 19.87945573,528.94285,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50486A001,Karnataka,KOLAR,KLAR,13 8 10.57434,78 10 49.93543,739.5037,Hexagon,Karnataka Geo-spatial Directorate
+50487A001,West Bengal,KOLKATA,KOLK,22 31 54.3929945521493,88 20 1.96247838540826,-48.79004,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50488A001,Kerala,KOLLAM,KLAM,8 56 20.6768237340338,76 32 27.5870970896919,-89.48307,Hexagon,Kerala & Lakshdweep Wing
+50489A001,Tamilnadu,KOLLIHILLS,KOLI,11 16 39.9835699791507,78 20 3.86981840936455,1035.97851,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50490A001,Arunanchal Pradesh,KOLORIANG,KOLO,27 54 18.475280054,93 20 40.830990755,954.046533,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50491A001,Uttarpradesh,KONCH,KONC,25 59 39.4553006357825,79 8 45.068263276776,106.5663,Trimble,Uttar Pradesh Geo-spatial Directorate
+50492A001,Chhattisgarh,KONDAGAON,KOND,19 36 16.0642425060542,81 40 28.6399226044721,529.91922,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50493A001,Maharashtra,KORCHI,KCHI,20 43 22.15538,80 28 58.69332,311.0775,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50494A001,Madhya Pradesh,KOTAR,KOTA,24 42 14.53188349413,81 0 13.7811510519012,241.53209,Trimble,Madhya Pradesh Geo-spatial Directorate
+50495A001,Tamilnadu,KOVILPATTI,KVIL,9 10 27.3601711254915,77 52 28.8339930021734,21.59409,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50496A001,Kerala,KOZHANCHERY,KERY,9 19 50.8937097158382,76 42 35.64463856156,-83.04096,Hexagon,Kerala & Lakshdweep Wing
+50497A001,Karnataka,KR PETE,KPTE,12 42 2.70715,76 31 41.4401,748.1735,Hexagon,Karnataka Geo-spatial Directorate
+50498A001,Tamilnadu,KRISHNAGIRI,KRIN,12 33 6.21716857861666,78 11 51.5022029530421,436.9546,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50499A001,West Bengal,KRISHNANAGAR,KRIS,23 25 0.461530045825683,88 29 8.03063478143177,-42.42088,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50500A001,Tamilnadu,KUDAVASAL,KUDV,10 51 28.478287111339,79 29 0.89189253293431,-64.52263,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50501A001,Kerala,KULATHUPZHA,KZHA,8 55 12.1228520386208,77 3 47.0129373022909,51.77198,Hexagon,Kerala & Lakshdweep Wing
+50502A001,Uttarakhand,KULHAL,KULH,30 25 50.199659428988,77 37 35.9133162023525,351.7712,Trimble,Uttarakhand  Geo-spatial Directorate
+50503A001,Himachal Pradesh,KULLU,KULL,31 53 40.1513721632555,77 8 19.0952613807421,1083.64238,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50504A001,West Bengal,KUMIRMARI,KUMI,22 11 32.9295984212206,88 56 11.0172941440956,-51.24938,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50506A001,Odisha,KUNDURA,KUNA,18 55 34.67877867,82 22 57.22194278,512.51257,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50507A001,Karnataka,KUNIGAL,KNGL,13 1 26.79538,77 1 58.52549,696.6931,Hexagon,Karnataka Geo-spatial Directorate
+50508A001,Kerala,KUNJATTURU,KUNJ,12 45 11.9458995,74 52 31.85295065,-49.63789,Hexagon,Kerala & Lakshdweep Wing
+50509A001,Chhattisgarh,KUNKURI,KUNK,22 45 8.18003683469495,83 57 44.0716371294189,428.94354,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50510A001,Jammu & Kashmir,KUPWARA,KURA,34 30 53.4369773670181,74 15 24.5886598330313,1581.55527,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50511A001,Odisha,KURUDA,KUDA,21 28 15.07402018,86 53 10.56335795,-38.57708,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50512A001,Madhya Pradesh,KUSMI,KUSM,23 58 39.483163,81 59 6.345568777,319.129841,Trimble,Madhya Pradesh Geo-spatial Directorate
+50513A001,Karnataka,KUSTAGI,KSGI,15 45 43.92675,76 11 19.75247,556.3049,Hexagon,Karnataka Geo-spatial Directorate
+50514A001,Odisha,KUTRAGARH,KURH,19 36 47.37668531,83 33 0.700853771,213.66223,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50515A001,Tamilnadu,KUZITHURAI,KZTH,8 19 6.26039931670677,77 12 22.4837886701451,-63.60078,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50516A001, Sikkim,LACHUNG,LACH,27 41 33.458147349928,88 44 40.4763109285858,2638.80511,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50517A001,Rajasthan,LADNU,LADN,27 38 28.503835,74 24 26.00862,283.9189,Trimble,Rajasthan Geo-spatial Directorate
+50518A001,Chhattisgarh,LAILUNGA,LAIL,22 22 37.9844026005066,83 34 52.0714922711651,425.123427,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50519A001,Madhya Pradesh,LAKHADON,LKDN,22 36 4.629440456,79 36 38.92828722,555.3637,Trimble,Madhya Pradesh Geo-spatial Directorate
+50520A001,Uttarpradesh,LAKHIMPUR,LAKH,27 58 10.3882381057825,80 48 32.226739616776,75.167,Trimble,Uttar Pradesh Geo-spatial Directorate
+50521A001,Uttarpradesh,LALGANJMIRZAPUR,LALG,25 0 31.3785223173371,82 21 52.6027173828019,78.80741,Trimble,Uttar Pradesh Geo-spatial Directorate
+50522A001,Uttarpradesh,LALGANJPRATAPGARH,LALP,25 56 2.6962229957825,81 42 29.351990526776,41.1265,Trimble,Uttar Pradesh Geo-spatial Directorate
+50523A001,West Bengal,LALGOLA,LALG,24 26 5.77844097114271,88 11 54.2242864346455,-33.12895,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50524A001,Uttarpradesh,LALITPUR,LALI,24 42 2.3637587467825,78 24 26.404504856776,300.7239,Trimble,Uttar Pradesh Geo-spatial Directorate
+50525A001,Mizoram,LALLEN,LALL,23 37 13.963225717,92 27 43.809380824,719.77891,Trimble,TMMz Wing
+50526A001,Gujarat,LALPUR,LALP,22 12 43.8964711792101,69 58 14.9256982704324,16.51927,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50527A001,Gujarat,LATHI,LTHI,21 42 55.2117220982104,71 22 59.6754166171665,64.44035,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50528A001,Maharashtra,LATUR,LATU,18 23 58.61075,76 33 46.56735,565.4674,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50529A001,Karnataka,LAXMESHWAR,LXWR,15 7 6.24099,75 28 25.11036,558.2718,Hexagon,Karnataka Geo-spatial Directorate
+50530A001,Ladakh,LEH,LEH1,34 9 3.905603223,77 33 46.21437369,3352.96219,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50531A001,Arunanchal Pradesh,LIKABALI,LIKA,27 39 45.39410011,94 41 29.875197266,102.684249,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50532A001,Andaman & Nicobar Islands,LONG ISLAND,LOIS,12 21 52.4946430708672,92 55 24.9590789303254,-53.43897,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50533A001,Arunanchal Pradesh,LONGDING,LONG,26 53 22.71502552,95 19 9.372227556,850.904124,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50534A001,Chhattisgarh,LORMI,LORM,22 16 19.3623067448567,81 41 13.0961314178867,256.2952,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50535A001,Uttarpradesh,LUCKNOW,LUCK,26 51 37.3992381457825,81 0 42.880464936776,52.083,Trimble,Uttar Pradesh Geo-spatial Directorate
+50536A001,Punjab,LUDHIANA,LUDH,30 54 26.6515789487393,75 50 39.3144517686689,201.4807691,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50537A001,Assam,LUMDING,LUMD,25 46 1.678938498,93 9 55.444729607,79.679728,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50538A001,Telangana,MACHAREDDY,MACH,18 20 7.64910448374284,78 30 32.8038549720274,414.15982,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50539A001,Manipur,MACHI,MCHI,24 31 3.214971422,94 8 41.238960245,1356.406875,Trimble,TMMz Wing
+50541A001,Karnataka,MADDUR,MDUR,12 34 13.1499,76 59 33.18894,578.9426,Hexagon,Karnataka Geo-spatial Directorate
+50542A001,Gujarat,MADHAVPUR,MADV,21 15 9.69881500733603,69 59 17.6341402942517,-46.65849,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50543A001,Bihar,MADHEPURA,MDHE,25 55 58.3488257480046,86 47 47.8317220137243,-13.542406,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50544A001,Uttarpradesh,MADHUBANI,MADH,25 48 19.02248,84 28 46.186577,-5.515739163,Trimble,Uttar Pradesh Geo-spatial Directorate
+50545A001,Karnataka,MADHUGIRI,MDGR,13 39 42.21259,77 12 56.78142,662.2375,Hexagon,Karnataka Geo-spatial Directorate
+50546A001,Chhattisgarh,MAGARLOD,MAGA,20 44 38.22049,81 51 0.23188,256.62567,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50547A001,Telangana,MAHADEVPUR,MHPR,18 43 48.9714143829175,79 58 49.5244896357613,53.29117,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50548A001,Maharashtra,MAHAGAON,MAGN,19 47 12.64739,77 46 19.24849,219.7107,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50549A001,Odisha,MAHAKALPADA,MAHA,20 25 21.5982424972525,86 35 48.0151726546833,-56.68874,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50550A001,Maharashtra,MAHALGAON,MGAN,20 40 28.88537,79 13 53.73695,193.3301,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50551A001,Uttarpradesh,MAHARAJGANJ,MAHA,27 8 30.505083156747,83 32 16.6412669957837,26.194277,Trimble,Uttar Pradesh Geo-spatial Directorate
+50552A001,Chhattisgarh,MAHASAMUND,MHND,21 6 24.48119,82 5 39.05252,232.96202,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50553A001, Haryana,MAHENDRAGARH,MAHE,28 15 29.5953581,76 8 21.63052919,223.4505,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50554A001,Madhya Pradesh,MAHESHWAR,MSWR,22 11 0.818258,75 35 29.796044,104.8675,Trimble,Madhya Pradesh Geo-spatial Directorate
+50555A001,Uttarpradesh,MAHOBA,MAHO,25 17 5.7740218847825,79 51 21.359426196776,169.7381,Trimble,Uttar Pradesh Geo-spatial Directorate
+50556A001,Jammu & Kashmir,MAHORE,MARE,33 18 19.3827193704749,74 52 9.35427358513858,1682.5449,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50557A001,Gujarat,MAHUVA,MAHU,21 6 8.18627975741004,71 47 12.7343375223135,-45.43483,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50558A001,Rajasthan,MAHWA,MAHW,27 1 55.3041424289003,76 55 7.10828522962563,181.3368834,Trimble,Rajasthan Geo-spatial Directorate
+50559A001,Assam,MAIBANG,MAIB,25 18 2.772158485,93 7 58.103540165,352.944255,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50560A001,Chhattisgarh,MAINPUR,MAIN,20 17 21.7495522744164,82 14 7.16832665746698,414.93862,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50561A001,West Bengal,MALBAZAR,MALB,26 51 28.2839713999392,88 44 25.2450872880962,95.22603,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50562A001,West Bengal,MALDA,MALD,24 59 4.92396122203148,88 8 20.0570719617455,-30.00978,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50563A001,Maharashtra,MALEGAON,MALE,20 34 6.46584,74 30 38.2881,376.2963,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50564A001,Odisha,MALKANGIRI,MALK,18 21 48.4392332488622,81 53 25.1942173295031,116.43658,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50565A001,Maharashtra,MALWAN,MLWN,16 2 41.95655,73 29 26.32109,-21.686,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50566A001,Tamilnadu,MANAMELGUDI,MNME,10 2 18.4487687408639,79 13 57.3398853351742,-77.56798,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50567A001,Madhya Pradesh,MANASA,MANA,24 28 29.6675954419299,75 8 21.8995477228001,406.55167,Trimble,Madhya Pradesh Geo-spatial Directorate
+50568A001,Madhya Pradesh,MANAWAR,MNWR,22 12 25.0938169864005,75 6 21.9926093676228,130.11538,Trimble,Madhya Pradesh Geo-spatial Directorate
+50569A001,West Bengal,MANBAZAR,MANB,23 3 21.3819663600915,86 39 18.5633488152123,111.87917,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50570A001,Telangana,MANCHERIAL,MNCH,18 52 58.5357985603257,79 26 49.9929490477533,78.24314,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50571A001,Gujarat,MANDAL,MAND,23 17 32.0846597,71 54 7.744451218,-22.17846,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50572A001,Rajasthan,MANDAL,MAND,25 26 26.5388447823977,74 34 34.4333714936799,382.9306,Trimble,Rajasthan Geo-spatial Directorate
+50573A001, Sikkim,MANGAN,MANG,27 29 23.0021974039127,88 31 55.4584290444315,1231.66319,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50574A001,Maharashtra,MANGAON,MAON,18 13 43.71116,73 17 2.69982,-60.082,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50575A001,Nagaland,MANGKOLEMBA,MNKO,26 30 14.481036008,94 26 17.874191484,505.964993,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50576A001,Rajasthan,MANGLIVAWAS,MANG,26 16 28.566076,74 30 7.447387,389.8688,Trimble,Rajasthan Geo-spatial Directorate
+50577A001,Arunanchal Pradesh,MANMAO,MANM,27 14 44.745084306,95 55 1.266728491,476.617761,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50578A001,Kerala,MANNAKUDDY,MDDY,9 47 45.618734572207,77 9 28.0918820249273,966.72252,Hexagon,Kerala & Lakshdweep Wing
+50579A001,Jharkhand,MANOHARPUR SIG W,MSIG,22 22 26.3092929431401,85 12 27.3284402405537,171.18884,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50580A001,Maharashtra,MANORA,MNRA,20 13 2.84535,77 33 41.78676,298.067,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50581A001,Punjab,MANSA,MANS,29 55 50.92960401,75 33 12.76087915,176.3188,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50582A001,Tripura,MANUBAZAR,MANU,23 5 10.153168139,91 38 27.692580086,-21.559669,Trimble,TMMz Wing
+50583A001,Assam,MARGHERITA,MARG,27 17 16.362605835,95 39 40.27023234,91.885981,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50584A001,Arunanchal Pradesh,MARIYANG,MARI,28 29 28.840170974,95 12 42.540738595,1064.980657,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50585A001,Bihar,MASHRAKH,MASH,26 5 8.87778106707939,84 47 59.4855865287415,-6.736447,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50586A001,Gujarat,MASKA,MSKA,22 50 15.469765781596,69 22 16.4290640015183,-42.71316,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50587A001,Uttarpradesh,MATHURA,MATH,27 28 17.36889943,77 41 38.13108837,122.2497,Trimble,Uttar Pradesh Geo-spatial Directorate
+50588A001,Uttarpradesh,MAURANIPUR,MAUR,25 15 18.2936021457825,79 8 38.677845526776,146.4604,Trimble,Uttar Pradesh Geo-spatial Directorate
+50589A001,Andaman & Nicobar Islands,MAYABUNDAR,MAYA,12 54 38.569956,92 54 1.24518614,-31.05566,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50590A001,Arunanchal Pradesh,MEBO,MEBO,28 10 4.31235358,95 25 16.446621612,380.692606,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50591A001,Maharashtra,MEDHA,MEDH,17 47 37.64791,73 49 38.29522,636.7143,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50592A001,Telangana,MEDIPALLI,MEDI,18 48 43.3082599485798,78 48 26.7700474771836,241.3355,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50593A001,Gujarat,MEHSANA,MEHS,23 35 1.45379197318659,72 24 47.5012318461668,36.11309,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50594A001,Tripura,MELAGHAR,MELA,23 30 30.030117786,91 19 47.853221576,-26.782896,Trimble,TMMz Wing
+50595A001,Kerala,MELUKAVUMATTA,MTTA,9 47 46.738121518421,76 45 17.9234379032974,71.36122,Hexagon,Kerala & Lakshdweep Wing
+50596A001,Arunanchal Pradesh,MIAO,MIAO,27 29 10.056119061,96 12 17.266991211,221.620373,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50597A001,Arunanchal Pradesh,MIGGING,MIGG,28 51 4.973446906,94 47 23.995571595,1007.472474,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50598A001,Uttarpradesh,MILKIPUR,MILK,26 36 33.2601074557825,81 55 55.970211826776,39.7853,Trimble,Uttar Pradesh Geo-spatial Directorate
+50599A001,Nagaland,MIMI,MIMI,25 42 21.908047675,94 54 12.427409515,1526.51336,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50600A001,Lakshdweep,MINICOY,MINI,8 16 58.4848415118711,73 3 23.4380956311307,-80.68039,Hexagon,Kerala & Lakshdweep Wing
+50601A001,Punjab,MOGA,MOGA,30 50 35.0812797331998,75 10 42.217847146466,177.3987153,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50602A001,West Bengal,MOGRARA,MOGR,22 57 57.8957305526892,88 22 13.0616007943688,-48.62571,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50603A001,Uttarpradesh,MOHAMMADI,MHMD,27 56 55.1063918457825,80 12 37.599479046776,102.5334,Trimble,Uttar Pradesh Geo-spatial Directorate
+50604A001,Madhya Pradesh,MOHANA,MOHN,25 54 10.3402433972086,77 46 36.6686340467642,262.21894,Trimble,Madhya Pradesh Geo-spatial Directorate
+50605A001,Madhya Pradesh,MOHANGARH,MHGR,24 59 5.63006640036535,78 40 39.4278922239919,255.36788,Trimble,Madhya Pradesh Geo-spatial Directorate
+50606A001,Maharashtra,MOHOL,MOHL,17 48 34.61855,75 38 8.75701,393.6195,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50607A001,Rajasthan,MOKALSAR,MOKA,29 0 49.3103,73 50 54.9018,163.2733738,Trimble,Rajasthan Geo-spatial Directorate
+50608A001,Bihar,MOKAMA,MOKM,25 23 19.5739919359623,85 54 11.8705126587204,-15.956203,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50609A001,Uttarakhand,MORI,MORI,31 1 20.3819322257825,78 2 41.292678626776,1118.2694,Trimble,Uttarakhand  Geo-spatial Directorate
+50610A001,Assam,MORIGAON,MORG,26 14 50.446429969,92 20 22.267790694,9.783218,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50611A001,Karnataka,MUDDEBHIL,MBIL,16 20 10.75107,76 7 42.45738,507.1911,Hexagon,Karnataka Geo-spatial Directorate
+50612A001,Karnataka,MUDIGERE,MGRE,13 8 15.79774,75 38 30.58758,887.6637,Hexagon,Karnataka Geo-spatial Directorate
+50613A001,Maharashtra,MULC,MULC,19 40 49.71605,80 0 26.02471,103.1653,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50614A001,Maharashtra,MULS,MULS,20 3 30.26002,79 39 38.09488,134.466,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50615A001,Madhya Pradesh,MUNGAOLI,MUNG,24 24 7.46852480891892,78 6 32.6149273823254,351.724822,Trimble,Madhya Pradesh Geo-spatial Directorate
+50616A001,Bihar,MUNGER,MNGE,25 22 8.46016220071056,86 28 49.420910279853,-13.910756,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50617A001,Kerala,MUNNAR,MUAR,10 5 21.7585,77 3 41.48619,1404.4886,Hexagon,Kerala & Lakshdweep Wing
+50618A001,Uttarakhand,MUNSIYARI,MUNS,30 3 44.8366535457825,80 14 26.748297316776,2228.8172,Trimble,Uttarakhand  Geo-spatial Directorate
+50619A001,Kerala,MUTHANGA,MUGA,11 39 50.9614507157217,76 20 30.8293998787887,762.62253,Hexagon,Kerala & Lakshdweep Wing
+50620A001,Tamilnadu,MUTHANGA,,11 39 50.9611500320198,76 20 30.8296761281865,762.64311,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50621A001,Bihar,MUZAFFARPUR,MUZA,26 8 41.648631848885,85 21 58.3833108589992,-9.148655,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50622A001,Rajasthan,MYAJLAR,MYAJ,26 15 22.40868986,70 22 55.17135492,71.5952,Trimble,Rajasthan Geo-spatial Directorate
+50623A001,Odisha,NABARANGPUR,NABA,19 15 19.2278317,82 32 37.62423572,523.98484,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50624A001,Punjab,NABHA,NABH,30 21 51.0548797739628,76 7 59.0593056963954,202.2029331,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50625A001,Rajasthan,NACHNA,NACH,27 30 16.346808,71 43 52.216986,102.4407,Trimble,Rajasthan Geo-spatial Directorate
+50626A001,Gujarat,NADIAD,NADI,22 42 17.1377147503513,72 50 4.32659822249341,-19.83716,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50627A001,Rajasthan,NADOL,NADO,25 22 13.9593028611407,73 27 9.75882009239088,267.756,Trimble,Rajasthan Geo-spatial Directorate
+50628A001,Tamilnadu,NAGAPATNAM,NAGA,10 47 59.7712511833576,79 50 19.0965283049049,-72.73447,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50629A001,Telangana,NAGARKURNOOL,NGRK,16 28 32.2257144279973,78 20 2.46230425733797,370.29491,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50630A001,Madhya Pradesh,NAGDA,NAGD,23 27 10.5877615826278,75 25 13.8412354889536,420.90748,Trimble,Madhya Pradesh Geo-spatial Directorate
+50631A001,Himachal Pradesh,NAHAN,NAHA,30 32 33.4093723378208,77 17 23.3586720335794,559.95239,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50632A001,Madhya Pradesh,NAINPUR,NAIN,22 26 0.888052723,80 6 25.65144178,381.46649,Trimble,Madhya Pradesh Geo-spatial Directorate
+50633A001,Uttarpradesh,NAJIBABAD,NJBD,29 36 29.6638635165036,78 20 22.2894004714219,219.7937,Trimble,Uttar Pradesh Geo-spatial Directorate
+50634A001,Gujarat,NALIYA,NIYA,23 15 19.489896027014,68 50 21.3984864025544,-24.47678,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50635A001,Arunanchal Pradesh,NAMDONG,NAMD,25 39 21.704669589,92 18 56.180649617,963.578489,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50636A001,Arunanchal Pradesh,NAMSAI,NAMS,27 40 1.491242548,95 52 6.286179941,95.826291,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50637A001,Maharashtra,NANDAGAON KHANDE,NANK,20 40 52.17784,77 49 46.55129,233.0972,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50638A001,Odisha,NANDAPUR,NAND,18 33 41.4169047649933,82 44 12.0492912973935,830.68933,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50639A001,Maharashtra,NANNDESWAR TAL,NTAL,17 21 56.70381,75 22 5.38376,469.4482,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50640A001,Uttarpradesh,NANPARA,NANP,27 51 1.1985533107825,81 30 45.525770006776,81.0039,Trimble,Uttar Pradesh Geo-spatial Directorate
+50641A001,Gujarat,NARALI,NARL,23 6 50.5684139044942,71 25 7.23501073050243,-34.87467,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50642A001, Haryana,NARAYANGARH,NARA,30 28 58.87176384,77 7 42.4952483,282.8758,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50643A001,Telangana,NARAYANPET,NRYP,16 44 23.3760449897868,77 30 21.0056106221001,376.63535,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50644A001,Rajasthan,NARAYANPUR,NRPR,27 31 36.2404838065013,76 19 38.3757333012344,333.8581793,Trimble,Rajasthan Geo-spatial Directorate
+50645A001,Chhattisgarh,NARAYANPURCG,NPCG,19 43 12.55566,81 14 44.73582,485.66293,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50646A001,Telangana,NARKETPALLY,NARK,17 12 27.179877582356,79 11 18.1165834058212,204.00674,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50647A001,Odisha,NARLA,NALA,20 2 53.1148107075301,83 21 47.815523801966,178.39581,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50648A001,Madhya Pradesh,NARSINGHGARH,NARS,23 42 13.5537261461273,77 6 15.5841858295154,403.04476,Trimble,Madhya Pradesh Geo-spatial Directorate
+50649A001,Maharashtra,NASHIK,NASK,20 1 52.91015,73 42 56.67036,528.7193,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50650A001,Madhya Pradesh,NASRULLAGANJ,NSRG,22 41 1.84445214176455,77 16 16.1249546823846,241.44835,Trimble,Madhya Pradesh Geo-spatial Directorate
+50651A001,Tamilnadu,NATHAM,NHAM,10 13 49.6911330354713,78 13 22.4143187808446,173.66896,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50652A001,Tamilnadu,NATRAMPALLI,NLKT,12 35 43.6401964188385,78 30 58.0672885936648,349.43732,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50653A001,Bihar,NAUGACHIA,NUGH,25 22 48.6054806609068,87 6 24.3984597857085,-20.447793,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50654A001,Uttarpradesh,NAUGARH,NAUG,27 16 46.4800644457825,83 5 1.14167157077603,23.7918,Trimble,Uttar Pradesh Geo-spatial Directorate
+50655A001,Maharashtra,NAVAPUR,NPUR,21 9 9.42631,73 48 21.66031,104.2381,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50656A001,Bihar,NAWADA,NAWA,24 54 41.8081744048927,85 32 6.90056089724899,25.314219,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50657A001,Rajasthan,NAWGOAN,NAWG,27 38 58.3167078181661,76 52 8.26744438677589,178.0542433,Trimble,Rajasthan Geo-spatial Directorate
+50658A001,West Bengal,NAXALBARI,NAXA,26 41 10.2767432295561,88 12 47.8508152180453,103.50128,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50659A001,Odisha,NAYAGARH,NAYA,20 7 30.7715161280774,85 6 34.8944700010171,33.63697,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50660A001,Rajasthan,NEEMKATHANA,NEEM,27 44 21.01927187,75 47 36.33362179,404.3170909,Trimble,Rajasthan Geo-spatial Directorate
+50661A001,Telangana,NEKKONDA,NEKK,17 47 59.6221867707746,79 48 23.0693961238025,154.10436,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50662A001,Gujarat,NETRANG,NTNG,21 38 14.605394801879,73 21 50.6794313195535,69.13748,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50663A001,Uttarakhand,NEWTEHRI,NTHR,30 22 41.8942434571114,78 26 15.1885398501852,1636.1854,Trimble,Uttarakhand  Geo-spatial Directorate
+50664A001,Telangana,NIDAMANOOR,NIDA,16 49 19.5096891780929,79 22 4.96050643524357,60.38014,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50665A001,Uttarpradesh,NIGHASAN,NIGH,28 14 18.7237994457825,80 51 40.582071446776,84.0805,Trimble,Uttar Pradesh Geo-spatial Directorate
+50666A001,Kerala,NILAKKA,NILA,9 23 15.8354508585893,77 0 57.9548521016503,273.53351,Hexagon,Kerala & Lakshdweep Wing
+50667A001,Tamilnadu,NILAKOTTAI,NATR,10 10 0.0578209436137915,77 51 10.557987706391,136.96905,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50668A001,Rajasthan,NIMA,NIMA,28 28 3.86476318464724,75 28 43.4687589309286,220.5093363,Trimble,Rajasthan Geo-spatial Directorate
+50669A001,Maharashtra,NIPHAD DEOGAON,NPGN,20 1 50.83285,74 15 37.80424,466.6896,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50670A001,Rajasthan,NIWAI,NWAI,26 22 10.2376501624057,75 53 32.1720347331716,279.95529,Trimble,Rajasthan Geo-spatial Directorate
+50671A001,Madhya Pradesh,NIWALI,NIWA,21 40 37.399614,74 54 45.184821,405.9831,Trimble,Madhya Pradesh Geo-spatial Directorate
+50672A001,Madhya Pradesh,NIWAS,NWAS,23 2 42.8651346188223,80 26 25.4797667543917,605.73299,Trimble,Madhya Pradesh Geo-spatial Directorate
+50673A001,Telangana,NIZAMABAD,NIZM,18 41 38.5320323267503,78 2 42.6621889585548,327.18293,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50674A001,Telangana,NIZAMSAGAR,NIZA,18 13 35.295034641372,77 55 56.8335219933743,332.43899,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50675A001,Mizoram,NOGPA,NOGP,23 53 27.881897893,93 12 43.737639484,1195.858793,Trimble,TMMz Wing
+50676A001,Nagaland,NOKLAK,NOKL,26 11 24.652873447,95 0 52.890890485,1339.794856,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50677A001,Arunanchal Pradesh,NONGPOH,NONP,25 54 57.426157698,91 52 36.119759192,492.643254,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50678A001,Arunanchal Pradesh,NONGSTOIN,NONG,25 31 33.417842236,91 15 47.671261399,1292.920052,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50679A001,Telangana,NOOTHANKAL,NOOT,17 19 52.7324428901403,79 41 47.1357682763019,104.75003,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50680A001,Madhya Pradesh,NOWROZABAD,NOWR,23 21 55.7901794157073,80 59 35.6576938042513,392.78588,Trimble,Madhya Pradesh Geo-spatial Directorate
+50681A001,Odisha,NUAGAON,NUAG,20 8 57.7738125719932,84 0 40.6916511754642,518.76064,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50682A001,Odisha,NUAPADA,NUAP,20 47 1.10645109514052,82 32 23.6728631468467,291.57133,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50683A001, Haryana,NUH,NUH_,28 6 42.25445476,77 1 39.24524286,141.6012,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50684A001,Himachal Pradesh,NURPUR,NURP,32 17 33.39334,75 53 28.25815,514.293,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50685A001,Tamilnadu,ODDANCHATHRAM,ODDA,10 28 57.427936299809,77 43 50.2032991240222,208.01556,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50686A001,Rajasthan,OSIAN,OSIA,26 43 53.521676,72 54 3.237405,287.5737,Trimble,Rajasthan Geo-spatial Directorate
+50687A001,Odisha,PABRITANAGAR,PABR,21 8 7.73921869614466,85 9 57.0587157815513,37.83478,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50688A001,Rajasthan,PACHALA,PCHL,25 57 25.1115653284607,76 13 18.2194004995077,223.4303,Trimble,Rajasthan Geo-spatial Directorate
+50689A001,Rajasthan,PACHPADRA,PACH,25 50 14.4357,72 15 20.637028,67.681,Trimble,Rajasthan Geo-spatial Directorate
+50690A001,Odisha,PADAMPUR,PDMP,21 0 2.30374830853347,83 3 43.3378520527166,148.91152,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50691A001,Maharashtra,PAITHAN,PTHN,19 28 57.86951,75 23 26.7721,385.7324,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50692A001,Chhattisgarh,PAKHANJUR,PKHN,20 2 21.3950762316321,80 37 37.0637852707162,263.96163,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50693A001,Jharkhand,PAKUR SADAR,PAAR,24 38 21.5154743,87 49 33.36525798,-9.24816,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50694A001,Maharashtra,PALAM,PLAM,19 0 32.18912,76 56 58.04611,313.4651,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50695A001,Gujarat,PALANPUR,PALA,24 10 20.0884811313432,72 26 55.2778154647277,179.43723,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50696A001,Tamilnadu,PALAYAMKOTTAI,PYKT,8 43 35.6814058362566,77 42 56.3968132103883,-52.21183,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50697A001,Arunanchal Pradesh,PALIN,PALI,27 41 50.06917374,93 37 59.006817771,877.308421,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50698A001,Tamilnadu,PALLIPATTU,PLPT,13 19 26.5491004155899,79 26 27.5328430286029,81.48558,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50699A001,Kerala,PALLIPPURAM,PLLI,10 23 56.5657898433982,76 7 6.92786672382374,-84.79465,Hexagon,Kerala & Lakshdweep Wing
+50700A001, Haryana,PALWAL,PALW,28 6 29.59324436,77 19 46.57404182,144.3002,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50701A001,Telangana,PAMBI,PAMB,19 11 38.0257627806441,78 37 56.6923729157807,175.58223,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50702A001,Rajasthan,PANCHORI,PANC,27 6 28.8358761155063,73 13 57.7092414420386,244.9533377,Trimble,Rajasthan Geo-spatial Directorate
+50703A001,Madhya Pradesh,PANDHANA,PAND,21 41 54.2781395768184,76 13 14.3211359032117,298.32917,Trimble,Madhya Pradesh Geo-spatial Directorate
+50704A001,Ladakh,PANG,PANG,33 7 46.3431660877779,77 47 11.7654478492583,4496.24709,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50705A001,Arunanchal Pradesh,PANGIN,PANG,28 12 58.87203305,94 59 43.932431954,432.02868,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50706A001, Haryana,PANIPAT,PANI,29 24 15.68554225,76 58 6.4095436,186.292,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50707A001,West Bengal,PANSKURA,PANS,22 23 58.3872207656468,87 44 33.0992378414526,-52.00017,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50708A001,Kerala,PARAPPA,PAPP,12 35 57.4781681638229,75 16 54.1843993263561,40.85032,Hexagon,Kerala & Lakshdweep Wing
+50709A001,Uttarpradesh,PARASPUR,PARA,27 2 7.3318386817825,81 47 12.685496606776,37.669,Trimble,Uttar Pradesh Geo-spatial Directorate
+50710A001,Maharashtra,PARLI,PARL,18 58 20.59861,76 22 40.70626,376.2956,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50711A001,Gujarat,PATAN,PTAN,23 51 23.0464285,72 8 5.576842289,34.21948,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50712A001,Madhya Pradesh,PATERA,PATE,23 59 2.19069741384986,79 41 4.19576216061643,283.93648,Trimble,Madhya Pradesh Geo-spatial Directorate
+50713A001,Bihar,PATNA,PATN,25 35 38.4924024517219,85 4 47.2231792884376,-8.228755,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50714A001,Tamilnadu,PATTUKOTTAI,PTTK,10 25 4.89940162015348,79 19 54.7974342248385,-62.93542,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50715A001,Karnataka,PAVGADA,PVDA,14 6 59.40809,77 16 50.29847,557.7273,Hexagon,Karnataka Geo-spatial Directorate
+50716A001,Chhattisgarh,PENDRAROAD,PEND,22 44 59.43669,81 54 36.49103,559.21283,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50717A001,Tamilnadu,PENNAGARAM,PNGM,12 8 4.28599261967048,77 53 36.4318966091257,426.20163,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50718A001,Telangana,PENTAVELLY,PNTV,16 4 12.4668244466187,78 15 21.3148314368906,201.70765,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50719A001,Tamilnadu,PERAIYUR,PRRU,9 44 29.9869517508188,77 47 23.923952183948,83.2602,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50720A001,Tamilnadu,PERAMBALUR,PBLU,11 13 27.0845067773969,78 52 30.3868468850808,45.02983,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50721A001,Rajasthan,PHALODI,PHLD,27 7 23.2595509537608,72 22 31.575540329557,192.0903094,Trimble,Rajasthan Geo-spatial Directorate
+50722A001,Rajasthan,PHALUSUND,PHAL,26 24 14.630522,71 55 28.71266,164.142,Trimble,Rajasthan Geo-spatial Directorate
+50723A001,Uttarpradesh,PHEENA,PHNA,29 4 41.5641712315314,78 20 58.5595255447769,169.5661,Trimble,Uttar Pradesh Geo-spatial Directorate
+50724A001,Manipur,PHERZAWL,PHER,24 15 42.00431924,93 11 2.280461201,985.475867,Trimble,TMMz Wing
+50725A001,Andaman & Nicobar Islands,PHOENIXBAY,PBAY,11 39 58.735636,92 44 6.343821785,-49.80586,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50726A001,Nagaland,PHOMCHING,PHOM,26 41 18.396549095,95 10 56.703178724,842.728043,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50727A001,Uttarpradesh,PHOOLPUR,PHOO,25 32 46.0248210557825,82 4 47.845574676776,33.0362,Trimble,Uttar Pradesh Geo-spatial Directorate
+50728A001,Odisha,PHULBANI,PHUL,20 28 0.895010704671447,84 14 24.9550695111342,431.75165,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50729A001,Meghalaya,PHULBARI,PHUB,25 52 38.403815248,90 1 49.017330376,-12.991532,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50730A001,Rajasthan,PHULERA,PHUL,26 52 21.61326537,75 15 53.52110753,351.8543427,Trimble,Rajasthan Geo-spatial Directorate
+50731A001,Assam,PHULONI,PHLO,26 10 8.669410011,93 8 15.095399047,38.536432,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50732A001,Bihar,PHULPARAS,PHUP,26 21 37.6637549294711,86 29 28.2169769488465,-1.878694,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50733A001,Uttarakhand,PITHORAGARH,PITH,29 35 20.8186569957825,80 12 29.745097276776,1631.6717,Trimble,Uttarakhand  Geo-spatial Directorate
+50734A001,Madhya Pradesh,POHARI,POHA,25 32 39.8900960224316,77 22 6.58223476715578,370.2359,Trimble,Madhya Pradesh Geo-spatial Directorate
+50735A001,Rajasthan,POKHRAN,POKH,26 54 12.327757,71 54 29.01584,209.3146,Trimble,Rajasthan Geo-spatial Directorate
+50736A001,Kerala,PONNANI,PANI,10 47 3.55984611870766,75 55 5.73977489979986,-87.57047,Hexagon,Kerala & Lakshdweep Wing
+50737A001,Uttarpradesh,POORANPUR,POOR,28 30 33.7742083857825,80 8 46.338504226776,129.8737,Trimble,Uttar Pradesh Geo-spatial Directorate
+50738A001,Madhya Pradesh,PORSA,PORS,26 40 50.8428912565212,78 21 25.3154359097714,106.20113,Trimble,Madhya Pradesh Geo-spatial Directorate
+50739A001,Madhya Pradesh,PRABHATPATTAN,PRAB,21 39 4.07251583302542,78 15 56.2203213960883,644.2131,Trimble,Madhya Pradesh Geo-spatial Directorate
+50740A001,Kerala,PUDDUR,PUDD,11 5 19.6216824780737,76 37 0.99821162150557,695.30526,Hexagon,Kerala & Lakshdweep Wing
+50741A001,Bihar,PUPRI,PUPR,26 27 49.1328825197277,85 41 59.8069655859652,-6.808178,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50742A001,West Bengal,PURULIYA,PURU,23 20 23.7594745034545,86 21 3.09700513200184,198.27651,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50743A001,Tamilnadu,RADHAPURAM,RDHM,8 16 17.8952713227862,77 41 12.1273219692731,-44.27723,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50744A001,Telangana,RAGHUNATHPALLY,RGNP,17 46 16.3614843293283,79 16 17.7280328232477,294.18649,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50745A001,Madhya Pradesh,RAHATGARH,RAHA,23 47 26.4719489157775,78 23 58.8279124294766,418.4312,Trimble,Madhya Pradesh Geo-spatial Directorate
+50746A001,Maharashtra,RAHURI AHMADNGR,RHRI,19 22 5.32871,74 38 51.8502,467.399,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50747A001,Karnataka,RAICHURU,RCRU,16 16 30.14439,77 21 7.04653,294.7725,Hexagon,Karnataka Geo-spatial Directorate
+50748A001,West Bengal,RAIGANJ,RAIG,25 39 24.2392835131035,88 9 11.3640513490683,-17.89316,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50749A001,Chhattisgarh,RAIGARH,RAIG,21 53 9.77284238646668,83 24 33.7656180268314,155.083108,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50750A001,Chhattisgarh,RAIPUR,RAIP,21 14 56.903621837757,81 36 27.4329352653801,231.2596575,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50751A001,Uttarpradesh,RAJAPUR,RAJA,25 22 45.4014649957825,81 7 59.213064616776,46.0477,Trimble,Uttar Pradesh Geo-spatial Directorate
+50752A001,Maharashtra,RAJAPUR RATNAGIR,RARI,16 42 18.60478,73 43 41.87915,0.5822,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50753A001,Telangana,RAJAPURTG,RJTG,16 51 49.0057174979268,78 9 45.3109109542883,464.56844,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50754A001,Rajasthan,RAJASAR,RJSR,28 38 3.68632459155983,74 13 26.8739119057594,165.9661139,Trimble,Rajasthan Geo-spatial Directorate
+50755A001,Odisha,RAJGANGPUR,RAJG,22 13 42.9431881959544,84 36 1.4307563955235,160.71615,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50756A001,Assam,RAJGHAT,RAJG,24 31 49.644866165,92 49 21.945070981,-18.822497,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50757A001,Chhattisgarh,RAJNANDGAON,RAJN,21 6 0.687004806608745,81 1 57.8309747612358,246.07323,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50758A001,Maharashtra,RAJURA,RAJU,19 47 8.47175,79 22 5.43952,112.0498,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50759A001,Tamilnadu,RAMANATHAPURAM,RMND,9 21 36.244313034747,78 51 36.1485362247087,-77.33858,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50760A001,Rajasthan,RAMGANIMANDI,RAMG,24 46 34.9201946611098,76 0 3.02579151940256,266.2622,Trimble,Rajasthan Geo-spatial Directorate
+50761A001,Assam,RAMKRISHNA,RAMK,24 34 12.077876347,92 27 55.802839324,-16.387913,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50762A001,Uttarakhand,RAMNAGAR,RMNG,29 23 36.0695569626115,79 6 57.836599326071,305.0015,Trimble,Uttarakhand  Geo-spatial Directorate
+50763A001,Himachal Pradesh,RAMPUR,RMPR,31 26 40.9578908091742,77 38 31.1658765382031,1608.1737,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50764A001,Uttarpradesh,RAMPURMANIHARAN,RAMP,29 48 49.26975451,77 27 22.054756,226.7769,Trimble,Uttar Pradesh Geo-spatial Directorate
+50765A001,Madhya Pradesh,RAMPURNAIKAN,RMNK,24 20 31.4256599148382,81 27 53.7587414681483,243.86358,Trimble,Madhya Pradesh Geo-spatial Directorate
+50766A001,Jharkhand,RANCHI,RCHI,23 20 44.5794263413152,85 19 15.5312123585877,580.08153,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50767A001,Karnataka,RANEBENNUR,RBUR,14 34 50.4265,75 39 26.87043,510.4896,Hexagon,Karnataka Geo-spatial Directorate
+50768A001,Arunanchal Pradesh,RANIKOR,RANK,25 13 52.643761559,91 13 49.885429365,55.953802,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50769A001,Rajasthan,RANIWAR,RANI,24 46 37.489307,72 16 58.829447,211.465,Trimble,Rajasthan Geo-spatial Directorate
+50770A001,Madhya Pradesh,RANNOD,RANN,25 3 52.66282131,77 52 11.86205388,390.607594,Trimble,Madhya Pradesh Geo-spatial Directorate
+50771A001,Uttarpradesh,RASRA,RASR,25 52 5.30887755003747,83 51 41.9185985883352,2.329881,Trimble,Uttar Pradesh Geo-spatial Directorate
+50772A001,Rajasthan,RATANGARH,RTNG,28 4 5.7712934936512,74 37 19.4695738307089,274.0930968,Trimble,Rajasthan Geo-spatial Directorate
+50773A001,Rajasthan,RATASAR,RATA,25 30 9.872519,70 52 19.643526,130.894,Trimble,Rajasthan Geo-spatial Directorate
+50774A001,Uttarpradesh,RATH,RATH,25 35 49.3397034057825,79 34 36.147456006776,100.5101,Trimble,Uttar Pradesh Geo-spatial Directorate
+50775A001,Madhya Pradesh,RATLAM,RATL,23 19 32.715319,75 3 18.197611,432.1479,Trimble,Madhya Pradesh Geo-spatial Directorate
+50776A001,Bihar,RATNIFARIDPUR,RATN,25 13 2.67756586995767,84 50 9.34304922922386,12.610952,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50777A001,Rajasthan,RAWATSAR,RAWA,29 16 14.8022633957649,74 24 37.3924727966485,141.9837108,Trimble,Rajasthan Geo-spatial Directorate
+50778A001,Bihar,RAXAUL,RAXA,26 58 54.0596124740943,84 50 37.8761933548755,14.925988,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50779A001,Odisha,RAYAGARH,RARH,19 10 0.651660824,83 24 30.85827968,159.40826,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50780A001,Telangana,REGONDA,REGO,18 14 56.5826232137234,79 46 14.1207520944296,147.94299,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50781A001,Meghalaya,RESUBELPARA,RESU,25 53 43.949570012,90 36 22.817000797,15.176884,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50782A001, Haryana,REWARI,REWA,28 12 55.09392322,76 37 9.6536149,191.8391,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50783A001,Uttarpradesh,ROBERTSGANJ,ROBT,24 41 8.51255946465804,83 4 20.6426221432597,257.27675,Trimble,Uttar Pradesh Geo-spatial Directorate
+50784A001,Rajasthan,ROHAT,ROHA,25 57 43.524752325407,73 8 29.8819848358998,147.7229,Trimble,Rajasthan Geo-spatial Directorate
+50785A001,Arunanchal Pradesh,ROING,ROIN,28 8 37.120729469,95 50 40.13416934,355.584921,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50786A001,Karnataka,RONA,RONA,15 41 38.23486,75 43 19.47741,496.2399,Hexagon,Karnataka Geo-spatial Directorate
+50787A001,Uttarakhand,ROORKEE,ROOR,29 52 1.16633493516688,77 52 59.244461162855,219.3236,Trimble,Uttarakhand  Geo-spatial Directorate
+50788A001,Uttarakhand,RUDRAPRAYAG,RUDR,30 18 14.6985902157825,79 0 32.079839146776,759.3778,Trimble,Uttarakhand  Geo-spatial Directorate
+50789A001,Arunanchal Pradesh,RUPA_AR,RUP_,27 11 31.967685795,92 23 53.624197943,1506.397133,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50790A001,Rajasthan,RUPAHELIKALAN,RUPA,25 47 35.9062239269212,74 38 27.0738294330197,354.1695,Trimble,Rajasthan Geo-spatial Directorate
+50791A001,Maharashtra,SADAK SHENDA,SAEN,21 5 36.58141,80 9 28.10123,207.9219,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50792A001,Rajasthan,SADHANA,SADH,27 28 51.3375,70 41 39.667804,90.0369,Trimble,Rajasthan Geo-spatial Directorate
+50793A001,Rajasthan,SADOLAI,SADO,28 36 43.05968,73 16 0.436928,144.3001,Trimble,Rajasthan Geo-spatial Directorate
+50794A001,West Bengal,SAGARISL,SAGA,21 43 17.8224909101558,88 9 5.31983377795236,-52.03001,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50795A001,Uttarpradesh,SAGRI,SAGR,26 8 46.2594648457825,83 18 53.004302656776,18.5888,Trimble,Uttar Pradesh Geo-spatial Directorate
+50796A001,Rajasthan,SAGWARA,SAGW,23 40 9.118699934,74 1 19.31251895,114.854,Trimble,Rajasthan Geo-spatial Directorate
+50797A001,Maharashtra,SAHAPUR,SAHA,19 26 48.96129,73 19 3.74436,2.8221,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50798A001,West Bengal,SAINTHIA,SAIN,23 56 49.5873358959738,87 41 0.214871658919554,0.48635,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50799A001,Maharashtra,SAKRI,SAKR,20 59 31.12292,74 18 55.20796,362.1628,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50800A001,Tamilnadu,SALEM,SALM,11 39 25.1381649437747,78 9 25.4740414878658,209.38896,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50801A001,Uttarpradesh,SALEMPUR,SALE,26 17 57.7244950509259,83 55 20.7518894506079,7.60679,Trimble,Uttar Pradesh Geo-spatial Directorate
+50802A001,Rajasthan,SALUMBER,SALU,24 8 2.92564635562653,74 2 24.6981919732847,189.0504,Trimble,Rajasthan Geo-spatial Directorate
+50803A001,Bihar,SAMASTIPUR,SAMA,25 51 48.7216287734268,85 46 32.2418534058433,-14.865316,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50804A001,Rajasthan,SANCHORE,SANC,24 46 40.2925709169347,71 47 34.1556725344348,8.797076675,Trimble,Rajasthan Geo-spatial Directorate
+50805A001,Uttarpradesh,SANDILA,SAND,27 3 59.9534358699614,80 29 48.715566738554,69.39417602,Trimble,Uttar Pradesh Geo-spatial Directorate
+50806A001,Karnataka,SANDUR,SNDR,15 5 17.59089,76 32 31.80185,503.7,Hexagon,Karnataka Geo-spatial Directorate
+50807A001,Mizoram,SANGAU,SANG,22 44 11.974882852,93 2 53.931878593,1304.995201,Trimble,TMMz Wing
+50808A001,Maharashtra,SANGMESHWAR,SAWR,17 10 35.18205,73 32 21.23226,-2.5965,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50809A001,Ladakh,SANGRAH,SANG,34 14 3.47040252949791,75 58 42.1831412747943,3091.71104,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50810A001,Nagaland,SANIS,SANI,26 12 15.326546464,94 11 45.115719552,614.309962,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50811A001,Gujarat,SANTRAMPUR,SANU,23 10 33.9590118938449,73 53 44.3568805352111,96.26676,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50812A001,Telangana,SARANGPUR,SARN,19 12 44.1838046804965,78 15 13.5479696418228,284.40972,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50813A001,Odisha,SARAT,SARA,21 26 23.8721702963684,86 20 38.457496903507,137.01344,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50814A001,West Bengal,SARENGA,SARE,22 48 2.07959262584845,87 0 37.7101487789927,38.01728,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50815A001,Assam,SARUPATHAR,SARU,26 11 31.670220195,93 52 8.211409146,62.995303,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50816A001,Bihar,SASARAM,SASA,24 56 52.5920522276291,83 58 44.9147517414739,40.622305,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50817A001,Maharashtra,SASWAD,SASW,18 20 51.31465,74 1 54.71333,709.26,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50818A001,Uttarakhand,SATPULI,STPU,29 55 25.9772185588322,78 42 35.9881128647162,587.2285,Trimble,Uttarakhand  Geo-spatial Directorate
+50819A001,Madhya Pradesh,SATWAS,SATW,22 32 5.85802179460216,76 41 29.7441341276331,261.6373,Trimble,Madhya Pradesh Geo-spatial Directorate
+50820A001,Karnataka,SAUDATHI,SDHI,15 46 6.93536,75 6 29.47138,595.3913,Hexagon,Karnataka Geo-spatial Directorate
+50821A001,Gujarat,SAVARKUNDLA,SDLA,21 18 37.886327,71 18 54.20603477,110.49345,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50822A001,Karnataka,SEDAM,SEDM,17 10 35.26776,77 16 56.80129,346.0826,Hexagon,Karnataka Geo-spatial Directorate
+50823A001,Arunanchal Pradesh,SEIJOSA,SEIJ,26 56 5.179021967,92 59 14.160458632,82.098019,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50824A001,Manipur,SENAPATI,SENA,25 16 11.91897901,94 1 15.322719828,1071.622842,Trimble,TMMz Wing
+50825A001,Tamilnadu,SENTHURAI,SNTR,11 14 49.0391951030099,79 11 2.82971967733868,0.77877,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50826A001,Madhya Pradesh,SEONINAGAR,SEON,22 5 39.9764625227919,79 32 50.685802149856,563.89075,Trimble,Madhya Pradesh Geo-spatial Directorate
+50827A001,Chhattisgarh,SEORINARAYAN,SERN,21 43 7.34961149614713,82 35 46.4431804546816,166.21848,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50828A001,Arunanchal Pradesh,SEPPA,SEPA,27 21 52.996490747,93 2 25.690167809,382.36032,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50829A001,Mizoram,SERCHHIP,SERC,23 19 35.421750069,92 51 17.51812956,895.374659,Trimble,TMMz Wing
+50830A001,Maharashtra,SHAHADA,SHDA,21 32 6.55689,74 29 9.00753,79.5094,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50831A001, Haryana,SHAHBAD,SHAH,30 10 24.66263967,76 51 38.41553648,215.893,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50832A001,Andaman & Nicobar Islands,SHAHEED DWEEP,SHAH,11 50 7.0154253669281,93 1 43.7655255181588,-49.82248,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50833A001,Madhya Pradesh,SHAHPUR,SHPR,22 11 26.6621250201024,77 54 11.0960092760766,336.38889,Trimble,Madhya Pradesh Geo-spatial Directorate
+50834A001,Chhattisgarh,SHANKARGARH,SHAN,23 18 7.12622569811715,83 36 21.3937279617419,628.45286,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50835A001,Telangana,SHANTINAGAR,SHNT,17 14 13.0871325219922,80 8 46.8633962646985,46.54427,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50836A001,Karnataka,SHIKARPURA,SPRA,14 15 58.38175,75 21 29.93373,528.1367,Hexagon,Karnataka Geo-spatial Directorate
+50837A001,Meghalaya,SHILLONG,SHIL,25 33 56.751622752,91 53 5.076400886,1499.742985,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50838A001,Himachal Pradesh,SHIMLA,SHIM,31 7 5.112616416,77 13 3.908525272,2179.92121,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50839A001,Maharashtra,SHIRUR,SHIR,18 49 37.71141,74 22 53.30346,493.4542,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50840A001,Andaman & Nicobar Islands,SHOALBAY,SHOL,11 51 23.5711640709174,92 44 6.49096815450942,-38.63353,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50841A001,Jammu & Kashmir,SHOPIAN,SOPN,33 44 34.3000793314583,74 50 19.8220707364921,1929.82862,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50842A001,Rajasthan,SHRIVIJAYNAGAR,SHRI,29 14 19.0203608289289,73 31 5.63788676206984,115.9494478,Trimble,Rajasthan Geo-spatial Directorate
+50843A001,Madhya Pradesh,SIHAWAL,SIHA,24 33 39.38786043,82 14 39.65604951,182.76093,Trimble,Madhya Pradesh Geo-spatial Directorate
+50844A001,Rajasthan,SIKAR,SIKA,27 35 47.42005329,75 11 25.21433033,398.9408317,Trimble,Rajasthan Geo-spatial Directorate
+50845A001,Madhya Pradesh,SILWANI,SILW,23 18 13.4741863039892,78 26 6.15563227354898,305.05983,Trimble,Madhya Pradesh Geo-spatial Directorate
+50846A001,Jharkhand,SIMDEGA,SEGA,22 36 37.9643638567768,84 29 33.0523397122707,378.68225,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50847A001,Karnataka,SINDANURU,SNUR,15 46 7.28613,76 43 56.0656,314.5949,Hexagon,Karnataka Geo-spatial Directorate
+50848A001,Rajasthan,SINDHARI,SIND,25 33 53.250166,71 55 46.161029,44.288,Trimble,Rajasthan Geo-spatial Directorate
+50849A001,Manipur,SINGHAT,SINT,24 8 40.466424449,93 35 32.476290543,946.578284,Trimble,TMMz Wing
+50850A001,Madhya Pradesh,SINGOLI,SING,24 58 2.31104531063403,75 17 32.9559086003841,326.40186,Trimble,Madhya Pradesh Geo-spatial Directorate
+50851A001,Madhya Pradesh,SINGRAULINAGAR,SRNG,24 4 36.2477771814192,82 36 26.7381609968247,225.33392,Trimble,Madhya Pradesh Geo-spatial Directorate
+50852A001,Madhya Pradesh,SIRALI,SIRA,22 8 47.5319948320731,77 3 49.5575347600644,246.1865,Trimble,Madhya Pradesh Geo-spatial Directorate
+50853A001,Rajasthan,SIROHI,SIRO,24 53 59.3580053769757,72 50 2.48044457502736,237.0963,Trimble,Rajasthan Geo-spatial Directorate
+50854A001,Madhya Pradesh,SIRONJ,SRNJ,24 5 46.541141,77 40 37.0366575,417.83326,Trimble,Madhya Pradesh Geo-spatial Directorate
+50855A001, Haryana,SIRSA,SIRS,29 32 56.64962792,75 2 56.0565565,157.8523,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50856A001,Andaman & Nicobar Islands,SITANAGAR,SITA,13 13 27.4775239,92 56 1.561491989,-26.48598,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50857A001,Chhattisgarh,SITAPUR,STPR,22 47 19.40898,83 29 30.26151,543.31908,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50858A001,Tamilnadu,SIVAGANGAI,SIVA,9 51 41.0823452302961,78 29 23.0566120723669,22.30999,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50859A001,Tamilnadu,SIVAGIRI,SGIR,9 20 48.2557139630753,77 26 2.77514156189711,82.02809,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50860A001,Karnataka,SOMWARPET,SPET,12 35 45.63698,75 50 32.3794,1023.8572,Hexagon,Karnataka Geo-spatial Directorate
+50861A001,Jammu & Kashmir,SONMARG,SARG,34 17 54.6922778056347,75 18 28.7260456789151,2671.68748,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50862A001,Andaman & Nicobar Islands,SOUTH CREEK,SEEK,12 10 38.3759435,92 47 16.36617065,-34.81648,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50863A001,Mizoram,SOUTHBUNGTLANG,SOUB,22 21 0.815577193,92 45 32.458589724,544.007168,Trimble,TMMz Wing
+50864A001,Mizoram,SOUTHKHAWBUNG,SOUT,23 9 51.600244304,93 13 9.14566881,1257.413414,Trimble,TMMz Wing
+50865A001,Rajasthan,SRIDUNGARGARH,SRID,28 5 12.123794,74 0 42.732359,227.9224,Trimble,Rajasthan Geo-spatial Directorate
+50866A001,Jammu & Kashmir,SRINAGAR,SRIN,34 3 30.7216702137765,74 48 32.0435061222021,1556.25139,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50867A001,Tamilnadu,SRIRANGAM,SRGM,10 51 24.0124404900155,78 42 3.33587680708711,-11.65735,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50868A001,Gujarat,SUIGAM,SUIG,24 9 1.46083138033588,71 22 9.06883515113621,-33.31164,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50869A001,Himachal Pradesh,SUJANPUR,SUJA,31 51 44.842379325051,76 29 12.4163316425953,546.59288,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50870A001,Uttarpradesh,SULTANPUR,SULT,26 15 48.3194049957825,82 4 14.575290776776,33.912,Trimble,Uttar Pradesh Geo-spatial Directorate
+50871A001,Madhya Pradesh,SULTANPURMP,STMP,23 7 28.07983029,77 55 29.7442696,318.17406,Trimble,Madhya Pradesh Geo-spatial Directorate
+50872A001,Rajasthan,SULTANPUTRJ,SPRJ,25 16 55.1022415837249,76 10 52.6058875827372,184.6355,Trimble,Rajasthan Geo-spatial Directorate
+50873A001,Punjab,SUNAM,SUNA,30 8 22.4688551961335,75 48 27.2509291442909,185.3793413,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50874A001,Jharkhand,SUNDARPAHARI,SUND,24 45 28.99079643058,87 21 18.2939774267702,104.7093,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50875A001,Jammu & Kashmir,SUNDERBANI,SUNI,33 2 51.5605612448303,74 29 28.0194030733529,542.10929,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50876A001,Himachal Pradesh,SUNDERNAGAR,SUND,31 30 41.21346,76 53 15.46979,903.315,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50877A001,Chhattisgarh,SURAJPUR,SRJP,23 12 45.6649,82 52 17.68403,489.7004,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50878A001,Jammu & Kashmir,SURANKOTE,SUTE,33 38 9.78239308793157,74 16 23.236832026469,1332.38796,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50879A001,Gujarat,SURAT,SURA,21 11 39.8991623007402,72 43 57.5464609630481,-51.68103,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50880A001,Gujarat,SURENDERNAGAR,SURE,22 43 30.2182588,71 37 30.8879403,20.51647,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50881A001,Andaman & Nicobar Islands,SWARAJDWEEP,SEEP,12 1 56.2710495317067,92 59 53.1698214317947,-55.04435,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50882A001,Gujarat,TALALA,TALA,21 4 41.8324269,70 32 55.19978473,42.41601,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50884A001,Maharashtra,TALEGAON,TGAN,20 4 35.53554,75 39 16.34444,537.9359,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50885A001,Odisha,TALSARA,TSRA,22 21 1.90695179777952,84 5 50.9025412526709,266.59916,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50886A001,Punjab,TALWARA,TALW,31 56 34.992788,75 53 21.974679,294.5248,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50887A001,Jharkhand,TAMAR,TMAR,23 3 11.1959293410265,85 39 41.9069408648855,198.35437,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50888A001,Manipur,TAMENGLONG,TAME,24 59 56.910092026,93 28 42.309660575,851.731225,Trimble,TMMz Wing
+50889A001,Telangana,TAMSI,TAMS,19 41 13.8413208776097,78 25 20.1370371568058,218.70287,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50890A001,Odisha,TANDABAI,TADA,17 58 31.4742867279406,81 32 12.9414377323955,40.16735,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50891A001,Ladakh,TANGTSE,TANT,34 2 12.2411702561498,78 9 59.8497158928186,3908.91366,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50892A001,Gujarat,TANKARA,TANK,22 39 26.3678663966765,70 44 49.4683130599702,6.49738,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50893A001,Jammu & Kashmir,TANMARG,TANG,34 3 38.365053392124,74 25 46.6275460090142,2104.12832,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50894A001,Rajasthan,TARANAGAR,TARA,28 39 31.761592984909,75 2 8.27969317069381,181.6168524,Trimble,Rajasthan Geo-spatial Directorate
+50895A001,Punjab,TARNTARAN,TARN,31 17 11.71673642,74 51 7.64923194,177.7064,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50896A001,Maharashtra,TELHARA,TELH,21 1 37.29956,76 51 11.7313,222.1026,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50897A001,Nagaland,TENING,TENI,25 20 54.707688897,93 35 49.930140816,1259.012829,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50899A001,Madhya Pradesh,TEOTHAR,TEOT,24 59 13.0783289954191,81 39 6.14912078967249,49.34894,Trimble,Madhya Pradesh Geo-spatial Directorate
+50900A001,Assam,TEZPUR,TEZP,26 37 18.704559576,92 48 11.541492034,25.872946,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50901A001,Arunanchal Pradesh,TEZU,TEZU,27 55 19.977109338,96 10 1.286831428,180.824941,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50902A001,Kerala,THABORE,TORE,12 14 50.4205194,75 21 39.93284539,124.38674,Hexagon,Kerala & Lakshdweep Wing
+50903A001,Bihar,THAKURGANJ,THAK,26 25 32.4225050171437,88 7 15.3328375007121,19.672042,Trimble,Jharkhand & Bihar  GD (Bihar Wing)
+50904A001,Tamilnadu,THANDRAMPATTU,TDPT,12 9 19.1058443600669,78 56 41.488790617523,100.33659,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50905A001,Gujarat,THARAD,THAR,24 23 13.2424855,71 37 22.32784888,4.98084,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50906A001,Karnataka,THIRITHAHALLI,TLLI,13 41 55.86158,75 15 21.06372,566.7395,Hexagon,Karnataka Geo-spatial Directorate
+50908A001,Tamilnadu,THIRUCHENGODE,TCGD,11 22 38.931418273114,77 53 38.5356857929462,161.78026,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50909A001,Tamilnadu,THIRUPORUR,THIR,12 43 9.71337492607909,80 11 8.58519958680897,-64.91979,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50910A001,Tamilnadu,THIRUVAIYARU,TVYR,10 52 57.3644827759669,79 6 37.3968561853124,-41.08527,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50911A001,Tamilnadu,THIRUVALLUR,TIRV,13 8 32.0675919036603,79 53 39.7076077404374,-31.34682,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50912A001,Kerala,THIRUVANANTHAPUR,TIRU,8 18 37.2044166957217,77 4 31.9580607866559,-88.09811,Hexagon,Kerala & Lakshdweep Wing
+50913A001,Telangana,THOGUTA,THOG,18 0 44.2523270982934,78 42 58.157013336127,440.1449,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50914A001,Tamilnadu,THOOTHUKUDI,TTKD,8 47 2.74814964514632,78 5 57.027589732243,-72.78843,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50915A001,Odisha,THUAMUL RAMPUR,THUR,19 33 14.3958658064489,82 56 3.58184952481708,636.24479,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50916A001,Assam,TINSUKIA,TINS,27 29 5.714772124,95 20 53.923381512,69.682668,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50917A001,Goa,TIVIM,TIVI,15 37 20.8141060747235,73 51 15.0810996535078,-57.0898,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50918A001,Jharkhand,TORPA,TRPA,22 55 59.7135101,85 5 10.88480896,459.21751,Hexagon,Jharkhand & Bihar  Geo-spatial Directorate
+50919A001,Mizoram,TUIPANG,TUIP,22 19 2.933210473,93 1 28.020890435,1298.424369,Trimble,TMMz Wing
+50920A001,Maharashtra,TUOD,TUOD,17 52 46.34426,76 18 15.28034,537.5981,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50921A001,Arunanchal Pradesh,TUTING,TUTI,28 59 35.875051533,94 53 32.20208198,524.505585,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50922A001,Assam,UDALGURI,UDAL,26 43 59.744061666,92 5 34.838011385,57.196749,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50923A001,Odisha,UDAYAGIRI,UDAY,19 9 40.0170643057444,84 8 32.4824670433524,524.45236,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50924A001,Maharashtra,UDGIR,UDGR,18 23 47.26832,77 8 33.05739,555.1117,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50925A001,Jammu & Kashmir,UDHAMPUR,UDHM,32 56 1.8069501785657,75 8 43.7122593419227,728.63017,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50926A001,Karnataka,UDUPI,UDPI,13 21 48.34861,74 47 9.97952,1.0919,Hexagon,Karnataka Geo-spatial Directorate
+50927A001,Madhya Pradesh,UJJAIN,UJJA,23 9 58.148524335227,75 48 44.9559375347157,446.64287,Trimble,Madhya Pradesh Geo-spatial Directorate
+50928A001,Tamilnadu,ULUNDURPET,ULUN,11 41 26.6156941691687,79 17 18.1786216455877,-8.39394,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50929A001,Maharashtra,UMARI NANDED,UNAD,19 2 44.41297,77 38 3.039,310.4147,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50930A001,Odisha,UMARKOTE,UMAR,19 39 51.6906358143153,82 12 15.3870903857595,556.01147,Hexagon,Odisha & Chhattishgarh Geo-spatial Directorate
+50931A001,Assam,UMRONGSO,UMRO,25 30 17.659757428,92 44 0.604269221,615.837369,Trimble,Assam & Nagaland and TMMz Geo-Spatial Directorate
+50932A001,Madhya Pradesh,UNCHERA,UNCH,24 21 58.6452228790489,80 46 37.7985686574608,270.2875,Trimble,Madhya Pradesh Geo-spatial Directorate
+50933A001,Gujarat,UPLETA,UPLE,21 44 29.8414908271862,70 16 33.5488525038492,-2.07765,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50934A001,Maharashtra,UPVALE,UPVL,17 51 47.37379,74 22 54.6631,593.609,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50935A001,Maharashtra,URAN KARANJA,URAN,18 50 47.03953,72 56 59.94179,-62.1673,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50937A001,Gujarat,VADODARA,VADO,22 19 2.95521610848171,73 15 20.1564366154938,-16.6118,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50938A001,Rajasthan,VALLABHNAGAR,VALL,24 40 46.9718528445018,74 0 9.35991387176193,436.4486,Trimble,Rajasthan Geo-spatial Directorate
+50939A001,Tamilnadu,VALPARAI,VALP,10 19 26.1109798301023,76 57 16.0836858935641,976.77925,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50940A001,Gujarat,VALSAD,VALS,20 36 21.4705132017995,72 55 34.1901886882083,-33.92706,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50941A001,Tamilnadu,VANUR,VNUR,12 1 10.4933913287756,79 43 54.9302162828988,-55.54825,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50942A001,Gujarat,VARAHI,VAHI,23 47 19.6492583686597,71 26 41.4702334392521,-28.77797,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50943A001,Uttarpradesh,VARANASI,VARA,25 19 20.2669953317647,82 59 35.0695239471639,16.580132,Trimble,Uttar Pradesh Geo-spatial Directorate
+50944A001,Maharashtra,VASAI,VSAI,19 20 10.6723,72 48 11.17222,-59.2589,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50945A001,Kerala,VAZHIKKADAVU,VAVU,11 19 5.63351557153043,76 15 54.6142595846985,-61.35516,Hexagon,Kerala & Lakshdweep Wing
+50946A001,Tamilnadu,VEDHARANYAM,VEDA,10 22 37.8965842563644,79 51 13.6831746204329,-83.94172,Hexagon,"Tamilnadu, Pondicherry and Andaman & Nicobar Island Geo-spatial Directorate"
+50947A001,Madhya Pradesh,VIDISHA,VIDI,23 30 40.6082652547456,77 47 43.4685977466715,371.49213,Trimble,Madhya Pradesh Geo-spatial Directorate
+50948A001,Karnataka,VIJAYAPUR,VJPR,16 49 47.89794,75 41 19.23698,541.7838,Hexagon,Karnataka Geo-spatial Directorate
+50949A001,Telangana,VIKARABADH,VIKR,17 20 7.00171542481232,77 53 56.0565114727904,568.20123,Trimble,Andhra Pradesh & Telangana Geo-spatial Directorate
+50950A001,Rajasthan,VISMA,VISM,24 54 47.3813676307465,73 24 15.4534931407571,803.314,Trimble,Rajasthan Geo-spatial Directorate
+50951A001,Gujarat,VYARA,VARA,21 6 39.9934549254606,73 23 13.0720521575065,29.72092,Hexagon,Gujarat Daman & Diu Geo-spatial Directorate
+50952A001,Maharashtra,WADGAON,WADG,18 44 32.33303,73 37 47.71088,564.5952,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50953A001,Chhattisgarh,WADRUPNAGAR,WDRN,23 45 21.1227443840317,83 12 31.7556100463222,405.56424,Trimble,Odisha & Chhattisgarh GD (Chhattisgarh Wing)
+50954A001,Maharashtra,WADS,WADS,20 37 2.23531,79 58 6.96562,172.5968,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50955A001,Arunanchal Pradesh,WALONG,WALO,28 7 52.275879529,97 0 59.092037453,1201.399548,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50956A001,Maharashtra,WANI,WANI,20 3 29.51861,78 56 54.50198,151.1649,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50957A001,Mizoram,WESTBUNGHMUM,WEST,23 10 58.230612399,92 29 7.912090714,735.738459,Trimble,TMMz Wing
+50958A001,Meghalaya,WILLIAMNAGAR,WILL,25 30 32.162960352,90 36 42.805450793,228.778383,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50959A001,Karnataka,YADGIR,YDGR,16 46 15.95789,77 7 5.87135,293.0716,Hexagon,Karnataka Geo-spatial Directorate
+50960A001, Haryana,YAMUNANAGAR,YAMU,30 8 50.87146656,77 17 19.71477935,233.387,Trimble,"Punjab, Haryana, Himachal Pardesh  & Chandigarh, Geo-spatial Directorate"
+50961A001,Maharashtra,YEDSHI,YDSI,18 19 21.67069,75 57 50.28555,612.403,Hexagon,Maharashtra and Goa Geo-spatial Directorate
+50962A001,Karnataka,YELANDUR,YLDR,12 3 6.99525,77 1 49.21206,570.8318,Hexagon,Karnataka Geo-spatial Directorate
+50963A001,Arunanchal Pradesh,YINGKIONG,YING,28 37 58.294339923,95 1 36.640768326,402.418757,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50964A001, Sikkim,YUKSOM,YUKS,27 22 37.7832246385757,88 13 17.4978483554961,1715.46423,Hexagon,West Bengal & Sikkim Geo-spatial Directorate
+50965A001,Arunanchal Pradesh,YUPIA,YUPI,27 8 43.643078628,93 43 15.976700394,173.147706,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
+50966A001,Ladakh,ZANGLA,ZANG,33 39 7.74860079574398,76 58 52.6418280110116,3428.830584,Hexagon,Jammu & Kashmir and Ladakh Geo-spatial Directorate
+50967A001,Arunanchal Pradesh,ZIRO,ZIRO,27 32 18.270251202,93 48 49.83536959,1534.079908,Trimble,Meghalaya and Arunachal Pradesh Geo-spatial Directorate
